@@ -2,7 +2,7 @@
 
 It allows you to add and remove data hypercubes which can be configured in “Data”, “Sorting”, “Add-ons” sections.
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2884%29.png)
 
 To add one, click “Create” button. Change hypercube title using “Title” property. Proceed the hypercube configuration on “Data” panel.
 

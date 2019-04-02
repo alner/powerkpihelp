@@ -28,4 +28,6 @@
   * [Cells](visual-editor/cells.md)
   * [Data](visual-editor/data.md)
   * [Borders](visual-editor/borders.md)
+  * [Alignment](visual-editor/alignment.md)
+  * [Font](visual-editor/font.md)
 
