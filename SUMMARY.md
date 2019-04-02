@@ -23,4 +23,8 @@
   * [Add-ons](properties/add-ons.md)
   * [Appearance](properties/appearance.md)
   * [Visualizations](properties/visualizations.md)
+  * [About](properties/about.md)
+* [Visual editor](visual-editor/README.md)
+  * [Cells](visual-editor/cells.md)
+  * [Data](visual-editor/data.md)
 

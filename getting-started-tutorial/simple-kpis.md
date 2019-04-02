@@ -44,7 +44,7 @@ To merge cells, you should select cells from top left corner to bottom right cor
 
 ![](../.gitbook/assets/tutorial6.png)
 
-After selecting cells, you can merge them by clicking "Merge"![](../.gitbook/assets/image%20%2823%29.png) toolbar button.
+After selecting cells, you can merge them by clicking "Merge"![](../.gitbook/assets/image%20%2853%29.png) toolbar button.
 
 {% hint style="info" %}
 To merge selected cells use "Ctrl + M" keyboard shortcut 
@@ -52,17 +52,17 @@ To merge selected cells use "Ctrl + M" keyboard shortcut
 
 ![](../.gitbook/assets/tutroial7.png)
 
-To split merged cells, select a cell and click "Split" ![](../.gitbook/assets/image%20%2814%29.png) toolbar button.
+To split merged cells, select a cell and click "Split" ![](../.gitbook/assets/image%20%2827%29.png) toolbar button.
 
 {% hint style="info" %}
 To split merged cells use "Ctrl + Alt + M" keyboard shortcut 
 {% endhint %}
 
-To remove a row or a column, you should select the entire row/column and hit "Delete" ![](../.gitbook/assets/image%20%2815%29.png) toolbar button.
+To remove a row or a column, you should select the entire row/column and hit "Delete" ![](../.gitbook/assets/image%20%2830%29.png) toolbar button.
 
 In such a way, by adding columns and rows, merging them, you will design your visualization template \(which can be improved later\) and will be ready to bind measures with the visualization.
 
-To start binding dimensions and measures, click "Dimensions/Measures" ![](../.gitbook/assets/image%20%2822%29.png) toolbar button. Data panel with configured dimensions and measures will be opened along with the visualization template.
+To start binding dimensions and measures, click "Dimensions/Measures" ![](../.gitbook/assets/image%20%2846%29.png) toolbar button. Data panel with configured dimensions and measures will be opened along with the visualization template.
 
 ![](../.gitbook/assets/tutorial8.png)
 

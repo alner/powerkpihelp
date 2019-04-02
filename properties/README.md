@@ -10,5 +10,5 @@ PowerKPI property panel has the following sections:
 *  Visualizations
 * About
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
