@@ -29,7 +29,7 @@ To add an action click ![](../.gitbook/assets/image%20%285%29.png)button on "Act
 Some actions applicable on a cell with bonded dimension, some - with a measure, and there are actions which can be applied on any cell.
 {% endhint %}
 
-Cells with applied actions will have ![](../.gitbook/assets/image%20%2867%29.png)special icon in top left corner when “Actions” panel will be shown.
+Cells with applied actions will have ![](../.gitbook/assets/image%20%2869%29.png)special icon in top left corner when “Actions” panel will be shown.
 
 
 

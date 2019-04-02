@@ -12,7 +12,7 @@ To create an appropriate visualization template, you should add columns/rows, me
 
 In the top left corner of the toolbar panel there is a button which allows a quick and easy switch between visualization templates.
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2879%29.png)
 
 To preview visualization, click “Preview” tab at the top of the toolbar.
 
@@ -20,15 +20,15 @@ To preview visualization, click “Preview” tab at the top of the toolbar.
 
 “Custom objects” tab allows you preview and apply a predefined visualization template.
 
-![](../.gitbook/assets/image%20%2859%29.png)
+![](../.gitbook/assets/image%20%2860%29.png)
 
-Tab with pencil icon ![](../.gitbook/assets/image%20%2892%29.png)along with visualization title allows you switch back to edit mode.
+Tab with pencil icon ![](../.gitbook/assets/image%20%2894%29.png)along with visualization title allows you switch back to edit mode.
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
-Button ![](../.gitbook/assets/image%20%2871%29.png) on the toolbar panel allows you to open context menu, which allows copying, exporting and importing designed templates as well as opening template settings panel.
+Button ![](../.gitbook/assets/image%20%2873%29.png) on the toolbar panel allows you to open context menu, which allows copying, exporting and importing designed templates as well as opening template settings panel.
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2883%29.png)
 
 Settings panel allows you to set “Fit to height” parameter, which will shrink or stretch visualization to fit occupied area. It is recommended to set this option on visualization templates for dashboards.
 
@@ -48,7 +48,7 @@ Visualization template is displayed in the form of spreadsheet-like view with ce
 
 To be able to merge cells, you should select cells from top left cell to bottom right cell holding left mouse button.
 
-![](../.gitbook/assets/image%20%28106%29.png)
+![](../.gitbook/assets/image%20%28108%29.png)
 
 To apply some operations on several cells you should select them holding "Ctrl" key.
 

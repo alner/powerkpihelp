@@ -4,7 +4,7 @@ But remember what the reason to build “Details” visualization was. We have a
 
 PowerKPI component has a predefined set of actions which can be applied to any cell of our template. One of such actions is “Activate view” action. You can apply it on a cell with KPI.
 
-Open “KPIs” template in edit mode by clicking ![](../.gitbook/assets/image%20%288%29.png)button on top left corner. Open “Actions” panel by clicking "Actions" ![](../.gitbook/assets/image%20%2889%29.png) toolbar button \(or use "Ctrl + Shift + A" keyboard shortcut to do the same\). 
+Open “KPIs” template in edit mode by clicking ![](../.gitbook/assets/image%20%288%29.png)button on top left corner. Open “Actions” panel by clicking "Actions" ![](../.gitbook/assets/image%20%2891%29.png) toolbar button \(or use "Ctrl + Shift + A" keyboard shortcut to do the same\). 
 
 Select an appropriate cell \(with KPI1, for example\).
 

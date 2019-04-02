@@ -10,7 +10,7 @@ Variable will be created during action execution if it was not created before.
 
 ![](../.gitbook/assets/image%20%2825%29.png)
 
-In the “**Variable**” parameter you can specify a variable name by selecting variable from the list clicking the ![](../.gitbook/assets/image%20%28102%29.png) button or entering it manually.
+In the “**Variable**” parameter you can specify a variable name by selecting variable from the list clicking the ![](../.gitbook/assets/image%20%28104%29.png) button or entering it manually.
 
 A Qlik expression can be used in the “Variable” parameter by prefixing a variable with an equals sign, e.g.:
 
