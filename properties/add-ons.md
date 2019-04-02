@@ -7,7 +7,7 @@ It allows you to suppress zero values and add calculation condition:
 
   A calculation condition is useful when a chart or table is very big and makes the visualization slow to respond. A calculation condition can then help so that for example an object does not show until the user has filtered the data to a more manageable level by applying selections.
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%28101%29.png)
 
 See Qlik Sense documentation for more details.
 

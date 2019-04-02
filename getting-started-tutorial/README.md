@@ -11,6 +11,8 @@ In this tutorial, we’ll show how to build an interactive dashboard. It will su
 ![](../.gitbook/assets/tutorial.gif)
 
 {% hint style="info" %}
-The final app is available to download from here.
+The final app is available to download:
 {% endhint %}
+
+{% file src="../.gitbook/assets/powerkpi-tutorial.qvf" caption="Power KPI tutorial.qvf" %}
 

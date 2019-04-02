@@ -2,7 +2,7 @@
 
 It contains a component version and allows you to activate the component if it is used on Qlik Sense Enterprise.
 
-![](../.gitbook/assets/image%20%28110%29.png)
+![](../.gitbook/assets/image%20%28116%29.png)
 
 “Activate” button will be shown only if the component has not been activated. See for more details in “Activation” section of the documentation.
 
@@ -10,9 +10,9 @@ It contains a component version and allows you to activate the component if it i
 
 If the component was activated it shows version info, license details, such as expiration date, or if it is a trial activation.
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 In Qlik Sense Desktop only version info is shown.
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 

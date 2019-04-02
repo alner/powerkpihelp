@@ -1,10 +1,12 @@
 # The final result
 
 {% hint style="info" %}
-The final app is available to download from here.
+The final app is available to download:
 {% endhint %}
 
-You can test how it works now. Stop editing your sheet \(if Qlik Sense is still in edit mode\) by clicking "View" ![](../.gitbook/assets/image%20%2881%29.png) button \(or "Done" ![](../.gitbook/assets/image%20%282%29.png) button if you use older version of Qlik Sense\). 
+{% file src="../.gitbook/assets/powerkpi-tutorial.qvf" caption="Power KPI tutorial.qvf" %}
+
+You can test how it works now. Stop editing your sheet \(if Qlik Sense is still in edit mode\) by clicking "View" ![](../.gitbook/assets/image%20%2885%29.png) button \(or "Done" ![](../.gitbook/assets/image%20%282%29.png) button if you use older version of Qlik Sense\). 
 
 Your visualization should look like this:
 

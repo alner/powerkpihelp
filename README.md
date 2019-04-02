@@ -20,7 +20,7 @@ It allows developers to design data views visually in accordance with business r
 
 There is an also predefined set of actions based on Qlik stable API.
 
-{% page-ref page="actions.md" %}
+{% page-ref page="actions/" %}
 
 ![](.gitbook/assets/kpis.png)
 
