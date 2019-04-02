@@ -4,11 +4,11 @@
 
 It allows you to set title, subtitle and footnote.
 
-![General](../.gitbook/assets/image%20%2890%29.png)
+![General](../.gitbook/assets/image%20%2892%29.png)
 
 “Alternate states” subsection can be used to apply alternate state for an object. See Qlik Sense documentation for more details.
 
-![Alternative states](../.gitbook/assets/image%20%2877%29.png)
+![Alternative states](../.gitbook/assets/image%20%2879%29.png)
 
 “Settings” subsection allows you to disable and hide “Export”, “Export data”, “View data” context menu options. 
 
@@ -22,7 +22,7 @@ It allows you to set title, subtitle and footnote.
 
 It also allows to replace url in a browser adding hashtag link for an active visualization using History API. Such option can be activated by setting "Replace "URL".
 
-![Replace &quot;URL&quot;](../.gitbook/assets/image%20%28105%29.png)
+![Replace &quot;URL&quot;](../.gitbook/assets/image%20%28107%29.png)
 
 
 

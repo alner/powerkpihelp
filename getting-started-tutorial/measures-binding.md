@@ -1,6 +1,6 @@
 # Measures binding
 
-To start binding dimensions and measures, click "Dimensions/Measures" ![](../.gitbook/assets/image%20%2862%29.png) toolbar button. Data panel with configured dimensions and measures will be opened along with the visualization template.
+To start binding dimensions and measures, click "Dimensions/Measures" ![](../.gitbook/assets/image%20%2864%29.png) toolbar button. Data panel with configured dimensions and measures will be opened along with the visualization template.
 
 ![](../.gitbook/assets/tutorial8.png)
 

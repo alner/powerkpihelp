@@ -14,9 +14,21 @@ We provide a visualization extension which allows you to build flexible and stun
 
 ![Visual Editor](.gitbook/assets/visualeditor.png)
 
-It allows developers to design data views visually in accordance with business requirements and corporate styles, by applying styles using fonts, backgrounds, images, borders, alignments, colors, icons, etc. There is an also predefined set of actions based on Qlik stable API.
+It allows developers to design data views visually in accordance with business requirements and corporate styles, by applying styles using fonts, backgrounds, images, borders, alignments, colors, icons, etc. 
+
+{% page-ref page="visual-editor/" %}
+
+There is an also predefined set of actions based on Qlik stable API.
+
+{% page-ref page="actions.md" %}
 
 ![](.gitbook/assets/kpis.png)
 
 ![Examples](.gitbook/assets/visualizations.png)
+
+{% hint style="info" %}
+See "Features overview" for more details.
+{% endhint %}
+
+{% page-ref page="features-overview.md" %}
 

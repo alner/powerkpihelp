@@ -1,10 +1,10 @@
 # Data
 
-“Data” section contains the following buttons:
+“Data” section of toolbar contains the following buttons:
 
-* ![](../.gitbook/assets/image%20%2866%29.png)  - **open data panel** containing dimensions and measures which can be bonded to cell using simple drag-and-drop:
+* ![](../.gitbook/assets/image%20%2868%29.png)  - **open data panel** containing dimensions and measures which can be bonded to cell using simple drag-and-drop:
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
 Data panel will show all dimensions \(if has been used\) and measures which have been added to Data section of the property panel.
 
@@ -30,7 +30,7 @@ See “Actions” section of the documentation for more details.
 
 ![](../.gitbook/assets/image%20%2845%29.png)
 
-For table-like templates you will have to select row numbers which correspond to details rows, and then to click on “Rows” tag ![](../.gitbook/assets/image%20%2868%29.png).
+For table-like templates you will have to select row numbers which correspond to details rows, and then to click on “Rows” tag ![](../.gitbook/assets/image%20%2870%29.png).
 
 In such a way you will always have to tag details rows for table-like templates:
 
@@ -38,9 +38,9 @@ In such a way you will always have to tag details rows for table-like templates:
 
 If you need to change your markup, you can click on ![](../.gitbook/assets/image%20%2812%29.png) icon to remove markup and to tag your rows in a different way.
 
-![](../.gitbook/assets/image%20%2857%29.png)
+![](../.gitbook/assets/image%20%2858%29.png)
 
-* ![](../.gitbook/assets/image%20%28102%29.png)   - **insert any text into the selected cell**
+* ![](../.gitbook/assets/image%20%28104%29.png)   - **insert any text into the selected cell**
 
 ![](../.gitbook/assets/2019-04-02_11-08-04.gif)
 
@@ -50,7 +50,7 @@ If you need to change your markup, you can click on ![](../.gitbook/assets/image
 
 It allows you to choose an icon, the position \(left or right from the content in a cell\), icon font and font size.
 
-* ![](../.gitbook/assets/image%20%2896%29.png)- **insert an image** in the selected cell from a content library
+* ![](../.gitbook/assets/image%20%2898%29.png)- **insert an image** in the selected cell from a content library
 
 ![](../.gitbook/assets/data1.png)
 
@@ -62,7 +62,7 @@ See more about "Content libraries" in Qlik help
 
 ![](../.gitbook/assets/2019-04-02_11-31-16.gif)
 
-Image ![](../.gitbook/assets/image%20%2858%29.png) button will allow you to select an image from one of the predefined content library.
+Image ![](../.gitbook/assets/image%20%2859%29.png) button will allow you to select an image from one of the predefined content library.
 
 As another option, if the selected cell contains data binding \(dimension/field with a images links\), you might want to select “From a field” option.
 

@@ -44,7 +44,7 @@ To merge cells, you should select cells from top left corner to bottom right cor
 
 ![](../.gitbook/assets/tutorial6.png)
 
-After selecting cells, you can merge them by clicking "Merge"![](../.gitbook/assets/image%20%2873%29.png) toolbar button.
+After selecting cells, you can merge them by clicking "Merge"![](../.gitbook/assets/image%20%2875%29.png) toolbar button.
 
 {% hint style="info" %}
 To merge selected cells use "Ctrl + M" keyboard shortcut 
@@ -62,7 +62,7 @@ To remove a row or a column, you should select the entire row/column and hit "De
 
 In such a way, by adding columns and rows, merging them, you will design your visualization template \(which can be improved later\) and will be ready to bind measures with the visualization.
 
-To start binding dimensions and measures, click "Dimensions/Measures" ![](../.gitbook/assets/image%20%2862%29.png) toolbar button. Data panel with configured dimensions and measures will be opened along with the visualization template.
+To start binding dimensions and measures, click "Dimensions/Measures" ![](../.gitbook/assets/image%20%2864%29.png) toolbar button. Data panel with configured dimensions and measures will be opened along with the visualization template.
 
 ![](../.gitbook/assets/tutorial8.png)
 

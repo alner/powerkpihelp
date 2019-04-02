@@ -16,7 +16,7 @@ Numbers and labels are now properly aligned.
 
 Go to Data section of the property panel, expand the first measure and set approppriate number format. Apply similar number formatting with all measures. During format changing you will immediately see changes in “Preview” mode.
 
-Let's apply another font on our KPIs. Return to edit mode by clicking "New visualization" tab ![](../.gitbook/assets/image%20%2854%29.png) . Cell selections should still remain active. Change font to Comfortaa, for example.
+Let's apply another font on our KPIs. Return to edit mode by clicking "New visualization" tab ![](../.gitbook/assets/image%20%2855%29.png) . Cell selections should still remain active. Change font to Comfortaa, for example.
 
 ![](../.gitbook/assets/tutorial15.png)
 

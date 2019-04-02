@@ -2,7 +2,7 @@
 
 It allows you to create and edit visualizations. To add visualization, click “Create” button. Visualization template editor will be opened and it will allow you to visually create visualization template.
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 The “Title” parameter can be used to change visualization title. It can be used in "Show" parameter.  
 

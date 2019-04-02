@@ -8,7 +8,9 @@ description: >-
 
 In this tutorial, we’ll show how to build an interactive dashboard. It will support drill-down from general KPIs representation to the detailed view in just one click.
 
-![](../.gitbook/assets/tutorialresult1.png)
+![](../.gitbook/assets/tutorial.gif)
 
-
+{% hint style="info" %}
+The final app is available to download from here.
+{% endhint %}
 

@@ -2,7 +2,7 @@
 
 It contains a component version and allows you to activate the component if it is used on Qlik Sense Enterprise.
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28110%29.png)
 
 “Activate” button will be shown only if the component has not been activated. See for more details in “Activation” section of the documentation.
 

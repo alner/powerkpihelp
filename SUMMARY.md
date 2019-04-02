@@ -6,7 +6,6 @@
   * [Online activation](activation/online-activation.md)
   * [Offline activation](activation/offline-activation.md)
 * [Getting started tutorial](getting-started-tutorial/README.md)
-  * [Tutorial goal](getting-started-tutorial/tutorial-goal.md)
   * [Preparation steps](getting-started-tutorial/preparation-steps.md)
   * [Template design](getting-started-tutorial/simple-kpis.md)
   * [Measures binding](getting-started-tutorial/measures-binding.md)
@@ -30,4 +29,5 @@
   * [Borders](visual-editor/borders.md)
   * [Alignment](visual-editor/alignment.md)
   * [Font](visual-editor/font.md)
+* [Actions](actions.md)
 

@@ -10,7 +10,7 @@ Import the extension on Qlik Sense site using qmc console.
 [https://help.qlik.com/en-US/sense-developer/Subsystems/Extensions/Content/Sense\_Extensions/Howtos/deploy-extensions.htm](https://help.qlik.com/en-US/sense-developer/Subsystems/Extensions/Content/Sense_Extensions/Howtos/deploy-extensions.htm)
 {% endhint %}
 
-After importing the extension to Qlik Sense Enterprise Server, it needs to be activated. See the **Activation** section of this document for more details.
+After importing the extension to Qlik Sense Enterprise Server, it needs to be activated. See the **Activation** section of this documentation for more details.
 
 {% page-ref page="activation/" %}
 
