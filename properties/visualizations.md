@@ -2,7 +2,7 @@
 
 To add visualization, click “Create” button. Visualization template editor will be opened and it will allow you to visually create visualization template.
 
-![](../.gitbook/assets/image%20%2882%29.png)
+![](../.gitbook/assets/image%20%2886%29.png)
 
 The “Title” parameter can be used to change visualization title. It can be used in "Show" parameter.  
 
@@ -12,7 +12,7 @@ The “Title” parameter can be used to change visualization title. It can be u
 
 “Edit template” button allows you to open editor and load to edit corresponding visualization template.
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 “Library colors” option allows you to use library colors used for master items. 
 
