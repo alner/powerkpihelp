@@ -27,4 +27,5 @@
 * [Visual editor](visual-editor/README.md)
   * [Cells](visual-editor/cells.md)
   * [Data](visual-editor/data.md)
+  * [Borders](visual-editor/borders.md)
 
