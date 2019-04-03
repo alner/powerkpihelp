@@ -64,4 +64,5 @@
   * [Sort](actions/sort.md)
   * [Alternative dimensions/measures](actions/alternative-dimensions-measures.md)
   * [Searchable dimension](actions/searchable-dimension.md)
+* [FAQ](faq.md)
 
