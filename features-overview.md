@@ -4,6 +4,8 @@ PowerKPI component allows developers to visually design stunning-looking, respon
 
 ![Spreadsheet-like visual editor](.gitbook/assets/features1.png)
 
+{% page-ref page="visual-editor/" %}
+
 It allows developer to apply styles on a business visualization template using fonts, backgrounds, images, borders, alignments, colors, icons, etc. You can apply color on any cell, cell borders, and text using user-friendly color dialog.
 
 ![Colors](.gitbook/assets/features2.png)
@@ -68,6 +70,8 @@ Visualization template can be activated based on user interactions using actions
 * “**Sort**” allows to you apply or remove interactive sorting capability for each column separately \(in case of table representations\)
 * “**Alternative dimensions/measures**” action allows you to apply or remove interactive dimensions and measures buttons separately for each data column labels
 * “**Searchable dimension**” allows you to apply or remove search functionality for each individual dimension column.
+
+{% page-ref page="actions/" %}
 
 You can apply a set of actions on any cell or cells to make the view more interactive. 
 
