@@ -4,13 +4,13 @@ After adding the dimension and measures on “Data” section, you are ready to 
 
 ![](../.gitbook/assets/tutorial25.png)
 
-Hit “New” button ![](../.gitbook/assets/image%20%2875%29.png)  to add a new visualization template. A new template will be created and “Visualization” section of the property panel should contain two items.
+Hit “New” button ![](../.gitbook/assets/image%20%2876%29.png)  to add a new visualization template. A new template will be created and “Visualization” section of the property panel should contain two items.
 
 ![](../.gitbook/assets/tutorial26.png)
 
 Both visualizations are called “New visualization”. You can change the titles for each of item. Expand the first item of “Visualizations” section of property panel and change the title to “KPIs”, expand the second one and change it to “Details”.
 
-You can easily switch between visualization templates using special button  ![](../.gitbook/assets/image%20%28119%29.png)on top left corner of the extension.
+You can easily switch between visualization templates using special button  ![](../.gitbook/assets/image%20%28120%29.png)on top left corner of the extension.
 
 ![](../.gitbook/assets/tutorial27.png)
 
@@ -32,7 +32,7 @@ Open “Preview” tab to see what you have.
 
 Return to edit mode by clicking “Details” tab. 
 
-Building table-like views in such a way, we need to specify which row/rows is/are details rows of current template. For that purpose, open “Tags” panel by clicking "Tags" ![](../.gitbook/assets/image%20%2823%29.png)  toolbar button on panel “Data” of the editor toolbar. 
+Building table-like views in such a way, we need to specify which row/rows is/are details rows of current template. For that purpose, open “Tags” panel by clicking "Tags" ![](../.gitbook/assets/image%20%2824%29.png)  toolbar button on panel “Data” of the editor toolbar. 
 
 ![](../.gitbook/assets/tutorial30.png)
 

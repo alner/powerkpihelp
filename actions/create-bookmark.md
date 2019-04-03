@@ -2,7 +2,7 @@
 
 Creates a bookmark based on the current selection.
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 The "Title", "Description" and "Sheet" parameters can be specified.
 

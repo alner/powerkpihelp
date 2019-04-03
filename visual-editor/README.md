@@ -12,23 +12,23 @@ To create an appropriate visualization template, you should add columns/rows, me
 
 In the top left corner of the toolbar panel there is a button which allows a quick and easy switch between visualization templates.
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28100%29.png)
 
 To preview visualization, click “Preview” tab at the top of the toolbar.
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 “Custom objects” tab allows you preview and apply a predefined visualization template.
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
-Tab with pencil icon ![](../.gitbook/assets/image%20%28117%29.png)along with visualization title allows you switch back to edit mode.
+Tab with pencil icon ![](../.gitbook/assets/image%20%28118%29.png)along with visualization title allows you switch back to edit mode.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
-Button ![](../.gitbook/assets/image%20%2889%29.png) on the toolbar panel allows you to open context menu, which allows copying, exporting and importing designed templates as well as opening template settings panel.
+Button ![](../.gitbook/assets/image%20%2890%29.png) on the toolbar panel allows you to open context menu, which allows copying, exporting and importing designed templates as well as opening template settings panel.
 
-![](../.gitbook/assets/image%20%28103%29.png)
+![](../.gitbook/assets/image%20%28104%29.png)
 
 Settings panel allows you to set “Fit to height” parameter, which will shrink or stretch visualization to fit occupied area. It is recommended to set this option on visualization templates for dashboards.
 
@@ -36,19 +36,19 @@ Button ![](../.gitbook/assets/image%20%2889%29.png) on the toolbar panel allows 
 
 “Thumbnail” allows you to set thumbnail for template.
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 Toolbar also has buttons to “undo/redo” changes and “Save” button, along with template and hypercube titles.
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 Visualization template is displayed in the form of spreadsheet-like view with cells below the toolbar.
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 To be able to merge cells, you should select cells from top left cell to bottom right cell holding left mouse button.
 
-![](../.gitbook/assets/image%20%28134%29.png)
+![](../.gitbook/assets/image%20%28135%29.png)
 
 To apply some operations on several cells you should select them holding "Ctrl" key.
 

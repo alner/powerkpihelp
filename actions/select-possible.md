@@ -2,9 +2,9 @@
 
 Selects possible values in a field.
 
-![](../.gitbook/assets/image%20%28126%29.png)
+![](../.gitbook/assets/image%20%28127%29.png)
 
-A Field can be entered manually or selected by clicking the ![](../.gitbook/assets/image%20%28122%29.png)button.
+A Field can be entered manually or selected by clicking the ![](../.gitbook/assets/image%20%28123%29.png)button.
 
 The “Soft lock” parameter will allow you to override locked selections.
 

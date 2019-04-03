@@ -2,9 +2,9 @@
 
 Toggles a field selection.
 
-![](../.gitbook/assets/image%20%28147%29.png)
+![](../.gitbook/assets/image%20%28148%29.png)
 
-A Field can be entered manually or selected by clicking the ![](../.gitbook/assets/image%20%28122%29.png) button.
+A Field can be entered manually or selected by clicking the ![](../.gitbook/assets/image%20%28123%29.png) button.
 
 The “Value” parameter can contain a mask. Special symbol **\*** can be used in a mask_._ The  **\*** symbol means any combination of characters. E.g. to find items containing ‘air’ substring the following mask can be used: \*air\*. But if you need items which start with ‘air’ substring, the following mask can be used: air\*. The operation is case insensitive.
 

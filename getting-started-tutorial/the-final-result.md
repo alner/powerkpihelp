@@ -6,7 +6,7 @@ The final app is available to download:
 
 {% file src="../.gitbook/assets/powerkpi-tutorial.qvf" caption="Power KPI tutorial.qvf" %}
 
-You can test how it works now. Stop editing your sheet \(if Qlik Sense is still in edit mode\) by clicking "View" ![](../.gitbook/assets/image%20%28110%29.png) button \(or "Done" ![](../.gitbook/assets/image%20%282%29.png) button if you use older version of Qlik Sense\). 
+You can test how it works now. Stop editing your sheet \(if Qlik Sense is still in edit mode\) by clicking "View" ![](../.gitbook/assets/image%20%28111%29.png) button \(or "Done" ![](../.gitbook/assets/image%20%283%29.png) button if you use older version of Qlik Sense\). 
 
 Your visualization should look like this:
 

@@ -2,7 +2,7 @@
 
 Navigate to a given URL.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 An URL should contain a schema \(http://, https://\) to be able to open absolute URLs. If the schema isn’t specified, it will try to open a relative path.
 

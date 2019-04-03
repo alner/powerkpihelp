@@ -2,9 +2,9 @@
 
 Selects specific values in a field.
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2875%29.png)
 
-A Field can be entered manually or selected by clicking the ![](../.gitbook/assets/image%20%28122%29.png)button.
+A Field can be entered manually or selected by clicking the ![](../.gitbook/assets/image%20%28123%29.png)button.
 
 The “Value” parameter can contain single value or several values separated by semicolon.
 
