@@ -30,11 +30,11 @@ To add an action click ![](../.gitbook/assets/image%20%286%29.png)button on "Act
 Some actions applicable on a cell with bonded dimension, some - with a measure, and there are actions which can be applied on any cell.
 {% endhint %}
 
-Cells with applied actions will have ![](../.gitbook/assets/image%20%2873%29.png)special icon in top left corner when “Actions” panel will be shown.
+Cells with applied actions will have ![](../.gitbook/assets/image%20%2885%29.png)special icon in top left corner when “Actions” panel will be shown.
 
-You can drag an action to change the execution order. Put the cursor on the ![](../.gitbook/assets/image%20%28110%29.png) drag bars and drag the action to rearrange the execution order.
+You can drag an action to change the execution order. Put the cursor on the ![](../.gitbook/assets/image%20%28130%29.png) drag bars and drag the action to rearrange the execution order.
 
 ![](../.gitbook/assets/2019-04-02_17-34-28.gif)
 
-To remove an action from the applied actions list click ![](../.gitbook/assets/image%20%2891%29.png).
+To remove an action from the applied actions list click ![](../.gitbook/assets/image%20%28109%29.png).
 
