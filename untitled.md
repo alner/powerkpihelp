@@ -1,6 +1,6 @@
 # Installation
 
-Download the latest version of the extension from [here](https://powerkpi.rbcgrp.com/wp-content/uploads/2019/03/powerkpi.zip).
+Download the latest version of the extension from [here](https://powerkpi.rbcgrp.com/wp-content/uploads/powerkpi.zip).
 
 Import the extension on Qlik Sense site using qmc console.
 
