@@ -20,13 +20,13 @@ The subscription includes **product support** and any **upgrades** and **additio
 
 See:
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="installation.md" %}
 
 ## How can I trial the PowerKPI on Qlik Sense Enterprise server?
 
 Follow these steps:
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="installation.md" %}
 
 {% page-ref page="activation/" %}
 
