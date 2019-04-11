@@ -14,6 +14,7 @@
   * [Visualizations](getting-started-tutorial/drill-down.md)
   * [Actions](getting-started-tutorial/actions.md)
   * [The final result](getting-started-tutorial/the-final-result.md)
+* [Video tutorial](video-tutorial.md)
 * [Features overview](features-overview.md)
 * [Properties](properties/README.md)
   * [HyperCubes](properties/hypercubes.md)
