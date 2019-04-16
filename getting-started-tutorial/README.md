@@ -6,6 +6,12 @@ description: >-
 
 # Getting started tutorial
 
+{% hint style="info" %}
+ If you prefer, you can follow the link below to see the tutorial in a video:
+{% endhint %}
+
+{% page-ref page="../video-tutorial.md" %}
+
 In this tutorial, we’ll show how to build an interactive dashboard. It will support drill-down from general KPIs representation to the detailed view in just one click.
 
 ![](../.gitbook/assets/tutorial.gif)
