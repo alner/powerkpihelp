@@ -1,12 +1,12 @@
 # Features overview
 
-PowerKPI component allows developers to visually design stunning-looking, responsive and interactive dashboards using spreadsheet-like visual editor: from simple kpi to interactive fancy and stunning-looking "table-like" data views \(with the ability to build custom multiline detailed row templates\).
+PowerKPI component allows developers to visually design stunning-looking, responsive and interactive dashboards using **spreadsheet-like visual editor**: from simple kpi to interactive fancy and stunning-looking "table-like" data views \(with the ability to build custom multiline detailed row templates\).
 
 ![Spreadsheet-like visual editor](.gitbook/assets/features1.png)
 
 {% page-ref page="visual-editor/" %}
 
-It allows developer to apply styles on a business visualization template using fonts, backgrounds, images, borders, alignments, colors, icons, etc. You can apply color on any cell, cell borders, and text using user-friendly color dialog.
+It allows developer to apply styles on a business visualization template using **fonts**, **backgrounds**, **images, borders, alignments, colors, icons**, etc. You can apply color on any cell, cell borders, and text using user-friendly color dialog.
 
 ![Colors](.gitbook/assets/features2.png)
 
@@ -22,7 +22,9 @@ or add images and icons to make your KPIs more readable.
 
 ![Image embedding](.gitbook/assets/features5.png)
 
-PowerKPI is prepackaged with set of fonts, which can be used to format numbers and text. Also, there is a set of icon fonts included. You can even extend provided set of fonts with your own ones.
+PowerKPI is prepackaged with **set of fonts**, which can be used to format numbers and text. Also, there is a set of **icon fonts** included. You can even extend provided set of fonts with your own ones.
+
+{% page-ref page="visual-editor/font.md" %}
 
 ![Icons fonts](.gitbook/assets/features7.png)
 
@@ -32,11 +34,15 @@ Icons can be displayed based on expression entered in “Symbol” parameter of 
 
 ![Showing icons using expression](.gitbook/assets/features8.png)
 
-Data configuration using dimensions and measures doesn’t differ from making it with standard charts: use drag and drop or standard property panel. You can even add and use alternative dimensions and measures, which will be available for business users in your visualizations to choose during analysis.
+Data configuration using dimensions and measures doesn’t differ from making it with standard charts: use drag and drop or standard property panel. You can even add and use **alternative dimensions and measures**, which will be available for business users in your visualizations to choose during analysis.
 
 ![Alternative dimensions and measures](.gitbook/assets/features9.png)
 
-Apart from all standard configuration capabilities, like sorting and add-ons, there is a possibility to add unlimited number of visualizations templates in order to be able to make not only dimensions drills, but also to make “drill into kpi” feature.
+Apart from all standard configuration capabilities, like sorting and add-ons, there is a possibility to add **unlimited number of visualizations templates and hypercubes** with its own set of dimensions and measures ****in one component in order to be able to make not only dimensions drills, but also to make “drill into kpi” feature.
+
+{% page-ref page="properties/hypercubes.md" %}
+
+{% page-ref page="properties/visualizations.md" %}
 
 Using simple drag and drop \(or double click\) it is easy to bind dimensions and measures with appropriate cells of a visualization template.
 
