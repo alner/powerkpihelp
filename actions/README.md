@@ -12,7 +12,9 @@
 * “**Zoom in**” and “**Zoom out**” actions allow you to expand visualization in full screen mode and close it;
 * “**Sort**” action allows you to apply or remove interactive sorting capability for each column separately \(in case of table representations\);
 * “**Alternative dimensions/measures**” action allows you to apply or remove interactive dimensions and measures buttons separately for each data column labels;
-* “**Searchable dimension**” action allows you to apply or remove search functionality for each individual dimension column
+* “**Searchable dimension**” action allows you to apply or remove search functionality for each individual dimension column;
+* **"Show dialog"** allows you to use custom popup dialog with a content formatted using HTML and embedding master visualizations support;
+* **"Show tooltip"** allows you to create custom tooltips with possibility to use HTML.
 
 {% hint style="info" %}
 See detailed description of the actions in the following sections.

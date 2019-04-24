@@ -67,5 +67,6 @@
   * [Searchable dimension](actions/searchable-dimension.md)
   * [Select dimension value](actions/select-dimension-value.md)
   * [Show dialog](actions/show-dialog.md)
+  * [Show tooltip](actions/show-tooltip.md)
 * [FAQ](faq.md)
 
