@@ -32,3 +32,9 @@ See "Features overview" for more details.
 
 {% page-ref page="features-overview.md" %}
 
+{% hint style="info" %}
+See "Demo Apps".
+{% endhint %}
+
+{% page-ref page="demo-apps.md" %}
+

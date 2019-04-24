@@ -50,7 +50,17 @@ If you need to change your markup, you can click on ![](../.gitbook/assets/image
 
 ![](../.gitbook/assets/2019-04-02_11-05-29.gif)
 
-It allows you to choose an icon, the position \(left or right from the content in a cell\), icon font and font size.
+It allows you to choose an icon, the position \(left, right or replace the content in a cell\), icon font and font size. 
+
+In case of the "Replace" option it completely replaces cell content. It is make sense to select such option on cell with linked measure. In such a way icon will be displayed instead of the measure value, but it will be possible, for example, to use Value Color action that will change the icon color based on the measure value. So, you will be able to get the result as it is shown on the image below, when the measure values were replaced with the red or green "dot" icon.
+
+![](../.gitbook/assets/iconsreplacesvalues.png)
+
+{% hint style="info" %}
+See Demo Apps for more details
+{% endhint %}
+
+{% page-ref page="../demo-apps.md" %}
 
 * ![](../.gitbook/assets/image%20%28133%29.png)- **insert an image** in the selected cell from a content library
 

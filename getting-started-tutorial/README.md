@@ -7,7 +7,7 @@ description: >-
 # Getting started tutorial
 
 {% hint style="info" %}
- If you prefer, you can follow the link below to see the tutorial in a video:
+ If you prefer, you can follow the link below to see the advanced tutorial in a video:
 {% endhint %}
 
 {% page-ref page="../video-tutorial.md" %}

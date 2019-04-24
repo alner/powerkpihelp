@@ -3,10 +3,10 @@
 Sets the font color, background color or border color by using the measure value and the one of predefined algorithms: “Positive/Negative”, “Less than 100%”, “Heatmap”.
 
 {% hint style="info" %}
-This action can be applied on a cell with a measure
+This action can be applied on a cell linked with the dimension or measure
 {% endhint %}
 
-Choose "Font color", "Background color" or "Line" to apply selected algorithm.
+Choose "Font color", "Background color", "Line" or "Symbol" to apply selected algorithm on particular property. Font or background color can be set for particular cell with the help of the action.  In case of the "Line" property a border color will be set  with the help of the action \(if the borders were applied on the cell\). The icon color can be set by selecting "Symbol" value.
 
 ### 
 

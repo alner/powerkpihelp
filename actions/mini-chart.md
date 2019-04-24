@@ -14,11 +14,31 @@ There are following minichart options available:
 
 ### Histogram
 
-![](../.gitbook/assets/minichart1.png)
+![](../.gitbook/assets/histogramparamsnew.png)
+
+Histogram is a graphical way of representing KPIs.
+
+![](../.gitbook/assets/histogram.png)
 
 It is possible to set the minimum, average and maximum values and set corresponding colors. By default, those parameters are initialized based on corresponding measure values.
 
-It is also possible to change the size of the minichart using the “Width” and “Height” options.
+The "**Offset**" parameter is optional and can be used to apply offset on a bar based on selected measure. To open list of available measures and select a measure, click ![](../.gitbook/assets/fx.png) button.
+
+![](../.gitbook/assets/2019-04-24_15-19-18.gif)
+
+The "**Offset**" parameter can be used to build **WaterFall** charts.
+
+![](../.gitbook/assets/waterfall.png)
+
+**To create WaterFall** chart you should add a measure wich will define offset for each dimension value. In our example we have used a dimension with the following values: "In stock", "In transit", "Damaged", etc. Stocks level is determined by the measure "StocksLevel" defined as: `SUM(StockLevel)`. The Offset measure called "BarOffset" can be defined in the following way: `rangesum(above("StocksLevel"), above("BarOffset"))`. So, Minichart action is appled on the "StocksLevel" measure with selected "BarOffset" measure as the "Offset" parameter. 
+
+See Demo Apps page for more details.
+
+{% page-ref page="../demo-apps.md" %}
+
+It is also possible to change the size of the minichart using the “**Width**” and “**Height**” options. The width and height is set in percentage of the occupied area.
+
+There is the "**Hide**" parameter under the "Value labels" header.  It allows to hide value labels.
 
 
 

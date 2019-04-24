@@ -2,6 +2,10 @@
 
 PowerKPI component allows developers to visually design stunning-looking, responsive and interactive dashboards using **spreadsheet-like visual editor**: from simple kpi to interactive fancy and stunning-looking "table-like" data views \(with the ability to build custom multiline detailed row templates\).
 
+See Demo Apps for more details.
+
+{% page-ref page="demo-apps.md" %}
+
 ![Spreadsheet-like visual editor](.gitbook/assets/features1.png)
 
 {% page-ref page="visual-editor/" %}

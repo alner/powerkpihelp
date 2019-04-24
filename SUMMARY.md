@@ -68,5 +68,6 @@
   * [Select dimension value](actions/select-dimension-value.md)
   * [Show dialog](actions/show-dialog.md)
   * [Show tooltip](actions/show-tooltip.md)
+* [Demo Apps](demo-apps.md)
 * [FAQ](faq.md)
 
