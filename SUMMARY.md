@@ -66,5 +66,6 @@
   * [Alternative dimensions/measures](actions/alternative-dimensions-measures.md)
   * [Searchable dimension](actions/searchable-dimension.md)
   * [Select dimension value](actions/select-dimension-value.md)
+  * [Show dialog](actions/show-dialog.md)
 * [FAQ](faq.md)
 
