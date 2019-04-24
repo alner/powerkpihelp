@@ -45,7 +45,7 @@ In such a way, **unlimited number of master visualizations can be embedded in a 
 
 
 {% hint style="info" %}
-Video: Qlik Sense February 2018 - hidden menu for developer
+Video: Qlik Sense February 2018 - hidden menu for developers
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=uw3IxCoqZag" %}
