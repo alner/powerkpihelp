@@ -2,6 +2,12 @@
 
 “Data” section of toolbar contains the following buttons:
 
+![](../.gitbook/assets/datapanel.png)
+
+{% hint style="info" %}
+Dimensions / Measures
+{% endhint %}
+
 * ![](../.gitbook/assets/image%20%2891%29.png)  - **open data panel** containing dimensions and measures which can be bonded to cell using simple drag-and-drop:
 
 ![](../.gitbook/assets/image%20%2892%29.png)
@@ -14,9 +20,21 @@ To bind a measure/dimension with the appropriate cell, select cell and click the
 
 ![](../.gitbook/assets/2019-04-02_11-16-58.gif)
 
+
+
+{% hint style="info" %}
+Delete
+{% endhint %}
+
 *   ****![](../.gitbook/assets/image%20%2859%29.png)- **delete selected cell/cells binding** \(dimensions, measures, text, icons, images etc.\)
 
 ![](../.gitbook/assets/2019-04-02_11-21-12.gif)
+
+
+
+{% hint style="info" %}
+Actions
+{% endhint %}
 
 * ![](../.gitbook/assets/image%20%282%29.png) -   **open actions panel** which will allow you to apply actions on selected cell
 
@@ -27,6 +45,12 @@ See “Actions” section of the documentation for more details.
 {% endhint %}
 
 {% page-ref page="../actions/" %}
+
+
+
+{% hint style="info" %}
+Tags
+{% endhint %}
 
 * ![](../.gitbook/assets/image%20%2852%29.png) -   **open “Tags” panel** which will allow you to make markup of template to be able to build table-like views \(it makes sense to use only for table-like views with dimensions\)
 
@@ -42,9 +66,21 @@ If you need to change your markup, you can click on ![](../.gitbook/assets/image
 
 ![](../.gitbook/assets/image%20%2877%29.png)
 
+\*\*\*\*
+
+{% hint style="info" %}
+Text
+{% endhint %}
+
 * ![](../.gitbook/assets/image%20%28140%29.png)   - **insert any text into the selected cell**
 
 ![](../.gitbook/assets/2019-04-02_11-08-04.gif)
+
+
+
+{% hint style="info" %}
+Icons
+{% endhint %}
 
 * \*\*\*\*![](../.gitbook/assets/image%20%2858%29.png) ****- **insert an icon into the selected cell**
 
@@ -61,6 +97,12 @@ See Demo Apps for more details
 {% endhint %}
 
 {% page-ref page="../demo-apps.md" %}
+
+
+
+{% hint style="info" %}
+Images
+{% endhint %}
 
 * ![](../.gitbook/assets/image%20%28133%29.png)- **insert an image** in the selected cell from a content library
 
