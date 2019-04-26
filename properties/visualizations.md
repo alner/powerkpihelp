@@ -8,7 +8,7 @@ The “Title” parameter can be used to change visualization title. It can be u
 
 “Show” parameter can be used to show the corresponding visualization based on expression and state. Expression should return a string value equal to a visualization template title which will be shown automatically.
 
-“Data” parameter allows you to bind template to corresponding hypercube. 
+“Data” parameter allows you to bind template to the corresponding hypercube. 
 
 “Edit template” button allows you to open editor and load to edit corresponding visualization template.
 
