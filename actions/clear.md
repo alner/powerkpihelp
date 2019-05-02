@@ -1,6 +1,6 @@
 # Clear
 
-Clears a field selection.
+The action will clear a field selection.
 
 ![](../.gitbook/assets/image%20%28106%29.png)
 

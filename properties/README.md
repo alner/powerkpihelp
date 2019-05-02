@@ -1,6 +1,6 @@
 # Properties
 
-PowerKPI property panel has the following sections:
+PowerKPI properties panel has the following sections:
 
 * HyperCubes
 * Data

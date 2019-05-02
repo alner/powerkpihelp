@@ -4,15 +4,15 @@ It allows you to add and remove data hypercubes which can be configured in “Da
 
 ![](../.gitbook/assets/image%20%28116%29.png)
 
-To add one, click “Create” button. Change hypercube title using “Title” property. Proceed the hypercube configuration on “Data” panel.
+To add one, click “Create” button. Change the hypercube title using “Title” property. Proceed the hypercube configuration on “Data” panel.
 
-To delete hypercube, expand the appropriate item and click “Delete” button.
+To delete the hypercube, expand the appropriate item and click “Delete” button.
 
-“Copy” button allows you to copy hypercube definition \(dimensions and measures\), which can be pasted for another item using “Paste” button.
+“Copy” button allows you to copy the hypercube definition \(dimensions and measures\), which can be pasted for another item using “Paste” button.
 
-To activate the appropriate hypercube, expand corresponding item and click “Show”. The "Data" section will contain dimensions and measures for the active hypercube.
+To activate the appropriate hypercube, expand the corresponding item and click “Show”. The "Data" section will contain dimensions and measures for the active hypercube.
 
 {% hint style="info" %}
-The only one hypercube can be active at any time.
+Only one hypercube can be active at a time.
 {% endhint %}
 

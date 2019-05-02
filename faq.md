@@ -4,7 +4,7 @@
 
 The PowerKPI is absolutely **free** to use **on Qlik Sense Desktop**.
 
-You will have to **purchase subscription** if you plan to use the extension in **enterprise environment**.  See the [Pricing](https://powerkpi.rbcgrp.com/#pricing) page for more details.
+You will have to **purchase subscription** if you plan to use the extension in an **enterprise environment**.  See the [Pricing](https://powerkpi.rbcgrp.com/#pricing) page for more details.
 
 For **non-commercial organizations** the component is absolutely **free to use**. Feel free to contact us to get the license.
 
@@ -32,9 +32,9 @@ Follow these steps:
 
 ## What does support include?
 
-Product support includes management of support cases and bug-fixing, help in installing the product. Support is available online at [https://support.rbcgrp.com/](https://support.rbcgrp.com/)
+Product support includes management of the support cases and bug-fixing, as well as help in installing the product. Support is available online at [https://support.rbcgrp.com/](https://support.rbcgrp.com/)
 
-## Not found what are you looking for?
+## Not found what you are looking for?
 
 Contact us following [https://www.rbcgrp.com/en/contacts/](https://www.rbcgrp.com/en/contacts/) link.
 

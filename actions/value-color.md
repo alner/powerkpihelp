@@ -1,6 +1,6 @@
 # Value color
 
-Sets the font color, background color or border color by using the measure value and the one of predefined algorithms: “Positive/Negative”, “Less than 100%”, “Heatmap”.
+The action will set the font color, background color or border color by using the measure value and the one of the predefined algorithms: “Positive/Negative”, “Less than 100%”, “Heatmap”.
 
 {% hint style="info" %}
 This action can be applied on a cell linked with the dimension or measure
@@ -16,7 +16,7 @@ Choose "Font color", "Background color", "Line" or "Symbol" to apply selected al
 
 Choose colors for “Positive” and “Negative” parameters by clicking the corresponding button ![](../.gitbook/assets/image%20%2869%29.png) or  ![](../.gitbook/assets/image%20%2815%29.png)
 
-All positive and negative values will be colored in selected colors.
+All positive and negative values will be colored in the selected colors.
 
 ###  
 
@@ -34,7 +34,7 @@ The color will be applied on a cell with a measure depending on the measure valu
 
 ![](../.gitbook/assets/image%20%2879%29.png)
 
-Applies the one of predefined heatmap color schemes.
+Applies one of the predefined heatmap color schemes.
 
-With the help of “Custom” option you will be able to change "Min", "Average" and/or "Max" parameters and specify colors for minimum, average and maximum values. It allows you to build custom heatmap color scheme.
+With the help of “Custom” option you will be able to change "Min", "Average" and/or "Max" parameters and specify colors for minimum, average and maximum values. It allows building custom heatmap color schemes.
 

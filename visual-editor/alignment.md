@@ -1,6 +1,6 @@
 # Alignment
 
-“Alignment” section of toolbar contains the following buttons:
+“Alignment” section of the toolbar contains the following buttons:
 
 ![](../.gitbook/assets/image%20%2835%29.png)
 

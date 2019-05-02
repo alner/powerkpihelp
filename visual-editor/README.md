@@ -1,6 +1,6 @@
 # Visual editor
 
-Visual editor allows you to create and edit visualization templates, which can be added using property panel of the component \(see section “Visualizations” of the documentation\).
+Visual editor allows you to create and edit visualization templates, which can be added using properties panel of the component \(see section “Visualizations” of the documentation\).
 
 {% page-ref page="../properties/visualizations.md" %}
 
@@ -18,47 +18,47 @@ To preview visualization, click “Preview” tab at the top of the toolbar.
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 
-“Custom objects” tab allows you preview and apply a predefined visualization template.
+“Custom objects” tab allows you to preview and apply a predefined visualization template.
 
 ![](../.gitbook/assets/image%20%2874%29.png)
 
-Tab with pencil icon ![](../.gitbook/assets/image%20%28118%29.png)along with visualization title allows you switch back to edit mode.
+Tab with pencil icon ![](../.gitbook/assets/image%20%28118%29.png)along with visualization title allow you to switch back to the edit mode.
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
-Button ![](../.gitbook/assets/image%20%2890%29.png) on the toolbar panel allows you to open context menu, which allows copying, exporting and importing designed templates as well as opening template settings panel.
+Button ![](../.gitbook/assets/image%20%2890%29.png) on the toolbar panel allows you to open the context menu, which allows copying, exporting and importing designed templates as well as opening template settings panel.
 
 ![](../.gitbook/assets/image%20%28104%29.png)
 
-Settings panel allows you to set “Fit to height” parameter, which will shrink or stretch visualization to fit occupied area. It is recommended to set this option on visualization templates for dashboards.
+Settings panel allows to apply “Fit to height” parameter, which will shrink or stretch visualization to fit the occupied area. It is recommended to set this option on visualization templates for dashboards.
 
-“Background image” allows you to set image as background for template. 
+“Background image” allows adding an image as a background for templates. 
 
-“Thumbnail” allows you to set thumbnail for template.
+“Thumbnail” allows setting a thumbnail for templates.
 
 ![](../.gitbook/assets/image%20%2831%29.png)
 
-Toolbar also has buttons to “undo/redo” changes and “Save” button, along with template and hypercube titles.
+The toolbar also has buttons to “undo/redo” changes and a “Save” button, along with template and hypercube titles.
 
 ![](../.gitbook/assets/image%20%2842%29.png)
 
-Visualization template is displayed in the form of spreadsheet-like view with cells below the toolbar.
+The visualization template is displayed in a spreadsheet-like view with cells below the toolbar.
 
 ![](../.gitbook/assets/image%20%2839%29.png)
 
-To be able to merge cells, you should select cells from top left cell to bottom right cell holding left mouse button.
+To be able to merge cells, you should select cells from the top left cell to the bottom right cell holding the left mouse button.
 
 ![](../.gitbook/assets/image%20%28135%29.png)
 
-To apply some operations on several cells you should select them holding "Ctrl" key.
+To apply some operations on several cells, you should select them holding "Ctrl" key.
 
-To select an entire column, you should click the column header \(cell with a column number\). In such a way, by clicking the row number, you can also select the entire row. It is possible to select several columns/rows by selecting corresponding column/row headers.
+To select an entire column, you should click the column header \(the cell with the column number\). In such a way, by clicking the row number, you can also select the entire row. It is possible to select several columns/rows by selecting the corresponding column/row headers.
 
 Main operations are grouped by sections on the toolbar:
 
 ![](../.gitbook/assets/visualeditortoolbar.png)
 
-*  “**Cells**” operations allow you to add/remove cells, change cells settings;
+*  “**Cells**” operations allow you adding/removing cells, as well as changing cells settings;
 
 {% page-ref page="cells.md" %}
 
@@ -70,7 +70,7 @@ Main operations are grouped by sections on the toolbar:
 
 {% page-ref page="borders.md" %}
 
-*  “**Alignment**” will allow you align data horizontally and/or vertically;
+*  “**Alignment**” will allow you to align data horizontally and/or vertically;
 
 {% page-ref page="alignment.md" %}
 

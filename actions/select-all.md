@@ -1,6 +1,6 @@
 # Select all
 
-Selects all values in a field.
+The action will select all values in a field.
 
 ![](../.gitbook/assets/image%20%2880%29.png)
 
@@ -8,5 +8,5 @@ Selects all values in a field.
 
 A Qlik expression can be used in the “Field” parameter by prefixing it with an equals sign.
 
-The “Soft lock” parameter will allow you to override locked selections.
+The “Soft lock” parameter will allow you to override the locked selections.
 

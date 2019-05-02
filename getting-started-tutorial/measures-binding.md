@@ -4,7 +4,7 @@ To start binding dimensions and measures, click "Dimensions/Measures" ![](../.gi
 
 ![](../.gitbook/assets/tutorial8.png)
 
-Data panel will show all measures which have been added on Data section of property panel.
+Data panel will show all the measures which have been added to the Data section of the properties panel.
 
 Each dimension and measure contain “Label” button, which will allow you to bind dimension/measure label within the template. 
 
@@ -14,19 +14,19 @@ To bind a measure/dimension with the appropriate cell, select a cell and click t
 
 ![](../.gitbook/assets/tutorial9.png)
 
-Bonded item will become gray and data asset item icon will change accordingly.
+The bonded item will become grey and the data asset item icon will change accordingly.
 
 ![](../.gitbook/assets/tutorial10.png)
 
 Click “Save” button to save changes.
 
-Click “Preview” tab on top of the component editor to preview the visualization.
+Click “Preview” tab on the top of the component editor to preview the visualization.
 
 ![](../.gitbook/assets/tutorial11.png)
 
 To improve our visualization template, we should make some further steps - apply alignment, fonts and number formatting. 
 
-Switch back to edit mode by clicking editor tab \(with pencil icon before template name – “New visualization” in our case\).
+Switch back to the edit mode by clicking editor tab \(with pencil icon before the template name – “New visualization” in our case\).
 
 ![](../.gitbook/assets/tutorial12.png)
 

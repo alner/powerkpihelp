@@ -12,7 +12,7 @@ description: >-
 
 {% page-ref page="../video-tutorial.md" %}
 
-In this tutorial, we’ll show how to build an interactive dashboard. It will support drill-down from general KPIs representation to the detailed view in just one click.
+In this tutorial, we show how to build an interactive dashboard. It will support the drill-down from general KPIs representation to the detailed view in just one click.
 
 ![](../.gitbook/assets/tutorial.gif)
 

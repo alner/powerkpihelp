@@ -1,6 +1,6 @@
 # Export data
 
-Exports data of current visualization or a master visualization data if the "Master items" has been specified.
+The action will export the data of the current visualization or a master visualization data if the "Master items" option has been specified.
 
 ![](../.gitbook/assets/image%20%28143%29.png)
 

@@ -4,7 +4,7 @@ The following steps should be taken to activate the extension:
 
 **1.** **Create an empty application on a server and place the extension on the sheet.**
 
-**2.** **Open “About” section on the property panel.**
+**2.** **Open “About” section on the properties panel.**
 
 {% hint style="info" %}
 The properties panel is available on the right-hand side when you are editing a visualization or a sheet. If it is hidden, click ![](../.gitbook/assets/showproperties.png) in the lower right-hand corner.
@@ -41,7 +41,7 @@ After the successful activation you will get the message “Congratulations! Pow
 ![PowerKPI has been successfully activated](../.gitbook/assets/onlineactivation5.png)
 
 {% hint style="info" %}
-If you have any questions regarding the activation process feel free to contact us at [https://support.rbcgrp.com/](https://support.rbcgrp.com/)
+If you have any questions regarding the activation process, feel free to contact us at [https://support.rbcgrp.com/](https://support.rbcgrp.com/)
 {% endhint %}
 
 

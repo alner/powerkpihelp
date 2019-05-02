@@ -1,20 +1,20 @@
 # Visualizations
 
-To add visualization, click “Create” button. Visualization template editor will be opened and it will allow you to visually create visualization template.
+To add a visualization, click “Create” button. Visualization template editor will open and it will allow you to visually create a visualization template.
 
 ![](../.gitbook/assets/image%20%28103%29.png)
 
-The “Title” parameter can be used to change visualization title. It can be used in "Show" parameter.  
+“Title” parameter can be used to change the visualization title. It can be used in "Show" parameter.  
 
-“Show” parameter can be used to show the corresponding visualization based on expression and state. Expression should return a string value equal to a visualization template title which will be shown automatically.
+“Show” parameter can be used to show the corresponding visualization based on expression and state. The expression should return a string value equal to a visualization template title which will be shown automatically.
 
-“Data” parameter allows you to bind template to the corresponding hypercube. 
+“Data” parameter allows you to bind the template to the corresponding hypercube. 
 
-“Edit template” button allows you to open editor and load to edit corresponding visualization template.
+“Edit template” button allows you to open the editor and load to edit the corresponding visualization template.
 
 ![](../.gitbook/assets/image%20%2836%29.png)
 
-“Library colors” option allows you to use library colors used for master items. 
+“Library colors” option allows you to use library colors applied on master items. 
 
 {% hint style="info" %}
 See Qlik Sense documentation for more details.

@@ -6,7 +6,7 @@ The following steps should be taken to activate the extension using offline opti
 
 **1.** **Create an empty application on a server and place the extension on the sheet.**
 
-**2.** **Open “About” section on the property panel.**
+**2.** **Open “About” section on the properties panel.**
 
 {% hint style="info" %}
 The properties panel is available on the right-hand side when you are editing a visualization or a sheet. If it is hidden, click ![](../.gitbook/assets/showproperties.png) in the lower right-hand corner.
@@ -36,7 +36,7 @@ Leave the “Activation key” field empty if you are making a trial activation 
 
 ![Enter your activation key or leave it empty for a trial version](../.gitbook/assets/offlineactivation1.png)
 
-**7. Following the instructions on the next page you copy the displayed text and send it by email at** [**ext@rbcgrp.com**](mailto:ext@rbcgrp.com).
+**7. Following the instructions on the next page you copy the displayed text and send it by email to** [**ext@rbcgrp.com**](mailto:ext@rbcgrp.com).
 
 ![Copy and send a license request by email](../.gitbook/assets/offlineactivation2.png)
 
@@ -49,6 +49,6 @@ After clicking “Upload license”, you will get the message “Congratulations
 ![](../.gitbook/assets/onlineactivation5.png)
 
 {% hint style="info" %}
-If you have any questions regarding the activation process feel free to contact us at [https://support.rbcgrp.com/](https://support.rbcgrp.com/)
+If you have any questions regarding the activation process, feel free to contact us at [https://support.rbcgrp.com/](https://support.rbcgrp.com/)
 {% endhint %}
 

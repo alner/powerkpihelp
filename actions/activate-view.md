@@ -9,7 +9,7 @@ Click the![](../.gitbook/assets/image%20%2883%29.png) special button to select a
 ![](../.gitbook/assets/2019-04-02_17-01-47.gif)
 
 {% hint style="info" %}
-See "**Visualizations**" section of the documentation for more details about a visualization creation.
+See "**Visualizations**" section of the documentation for more details about creating visualizations.
 {% endhint %}
 
 {% page-ref page="../properties/visualizations.md" %}

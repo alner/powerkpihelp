@@ -1,6 +1,6 @@
 # Remove bookmark
 
-Removes a bookmark.
+The action will remove a bookmark.
 
 ![](../.gitbook/assets/image%20%2897%29.png)
 

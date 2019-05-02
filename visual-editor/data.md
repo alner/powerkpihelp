@@ -1,6 +1,6 @@
 # Data
 
-“Data” section of toolbar contains the following buttons:
+“Data” section of the toolbar contains the following buttons:
 
 ![](../.gitbook/assets/datapanel.png)
 
@@ -8,15 +8,15 @@
 Dimensions / Measures
 {% endhint %}
 
-* ![](../.gitbook/assets/image%20%2891%29.png)  - **open data panel** containing dimensions and measures which can be bonded to cell using simple drag-and-drop:
+* ![](../.gitbook/assets/image%20%2891%29.png)  - **open data panel** contains dimensions and measures which can be bonded to cell using simple drag-and-drop:
 
 ![](../.gitbook/assets/image%20%2892%29.png)
 
-Data panel will show all dimensions \(if has been used\) and measures which have been added to Data section of the property panel.
+Data panel will show all dimensions \(if any were used\) and measures which were added to Data section of the properties panel.
 
-Each dimension and measure contain “Label” ![](../.gitbook/assets/image%20%2870%29.png) button, which will allow you to bind dimension/measure label within the template. Each measure, except the “Label” button, contains “Totals”   ![](../.gitbook/assets/image%20%2848%29.png) button. It allows you to bind total calculated for appropriate measure within the template. It makes sense to use “Totals” when constructing table-like templates. 
+Each dimension and measure contain “Label” ![](../.gitbook/assets/image%20%2870%29.png) button, which will allow you to bind dimension/measure label within the template. Each measure, except the “Label” button, contains “Totals”   ![](../.gitbook/assets/image%20%2848%29.png) button. It allows you to bind the total calculated for appropriate measure within the template. It makes sense to use “Totals” when constructing table-like templates. 
 
-To bind a measure/dimension with the appropriate cell, select cell and click the appropriate measure/dimension. Or, if you prefer, drag data item \(dimension, measure, label or total\) onto template and drop it on the appropriate cell. In such a way you will bind your data assets to the designed template.
+To bind a measure/dimension with the appropriate cell, select a cell and click the appropriate measure/dimension. Or, if you prefer, drag data item \(dimension, measure, label or total\) onto the template and drop it on the appropriate cell. In such a way you will bind your data assets to the designed template.
 
 ![](../.gitbook/assets/2019-04-02_11-16-58.gif)
 
@@ -36,7 +36,7 @@ Delete
 Actions
 {% endhint %}
 
-* ![](../.gitbook/assets/image%20%282%29.png) -   **open actions panel** which will allow you to apply actions on selected cell
+* ![](../.gitbook/assets/image%20%282%29.png) -   **open actions panel** allows you to apply actions on the selected cell
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
@@ -52,17 +52,17 @@ See “Actions” section of the documentation for more details.
 Tags
 {% endhint %}
 
-* ![](../.gitbook/assets/image%20%2852%29.png) -   **open “Tags” panel** which will allow you to make markup of template to be able to build table-like views \(it makes sense to use only for table-like views with dimensions\)
+* ![](../.gitbook/assets/image%20%2852%29.png) -   **open “Tags” panel** allows you to make a markup of template to be able to build table-like views \(it makes sense to use only for table-like views with dimensions\)
 
 ![](../.gitbook/assets/image%20%2861%29.png)
 
-For table-like templates you will have to select row numbers which correspond to details rows, and then to click on “Rows” tag ![](../.gitbook/assets/image%20%2893%29.png).
+For table-like templates you will have to select row numbers which correspond to the details rows, and then click on “Rows” tag ![](../.gitbook/assets/image%20%2893%29.png).
 
 In such a way you will always have to tag details rows for table-like templates:
 
 ![](../.gitbook/assets/2019-04-02_10-53-45.gif)
 
-If you need to change your markup, you can click on ![](../.gitbook/assets/image%20%2819%29.png) icon to remove markup and to tag your rows in a different way.
+If you need to change your markup, you can click on ![](../.gitbook/assets/image%20%2819%29.png) icon to remove the markup and tag your rows in a different way.
 
 ![](../.gitbook/assets/image%20%2877%29.png)
 
@@ -86,9 +86,9 @@ Icons
 
 ![](../.gitbook/assets/2019-04-02_11-05-29.gif)
 
-It allows you to choose an icon, the position \(left, right or replace the content in a cell\), icon font and font size. 
+It allows you to choose an icon, a position \(left, right or replace the content in a cell\), icon font and font size. 
 
-In case of the "Replace" option it completely replaces cell content. It is make sense to select such option on cell with linked measure. In such a way icon will be displayed instead of the measure value, but it will be possible, for example, to use Value Color action that will change the icon color based on the measure value. So, you will be able to get the result as it is shown on the image below, when the measure values were replaced with the red or green "dot" icon.
+In case of the "Replace" option it completely replaces the cell content. It makes sense to select such option on the cell with a linked measure. In such a way, icon will be displayed instead of the measure's value, but it will be possible, for example, to use the Value Color action that will change the icon color based on the measure's value. So, you will be able to get the result as it is shown on the image below, when the measure's values were replaced with the red or green "dot" icon.
 
 ![](../.gitbook/assets/iconsreplacesvalues.png)
 
@@ -109,16 +109,16 @@ Images
 ![](../.gitbook/assets/data1.png)
 
 {% hint style="info" %}
-See more about "Content libraries" in Qlik help
+See "Content libraries" in Qlik help for more details
 
 [https://help.qlik.com/en-US/sense/Subsystems/ManagementConsole/Content/Sense\_QMC/content-libraries-overview.htm](https://help.qlik.com/en-US/sense/Subsystems/ManagementConsole/Content/Sense_QMC/content-libraries-overview.htm)
 {% endhint %}
 
 ![](../.gitbook/assets/2019-04-02_11-31-16.gif)
 
-Image ![](../.gitbook/assets/image%20%2878%29.png) button will allow you to select an image from one of the predefined content library.
+Image ![](../.gitbook/assets/image%20%2878%29.png) button will allow you to select an image from one of the predefined content libraries.
 
-As another option, if the selected cell contains data binding \(dimension/field with a images links\), you might want to select “From a field” option.
+Alternatively, if the selected cell contains data binding \(dimension/field with images links\), you might want to select “From a field” option.
 
 ![](../.gitbook/assets/2019-04-02_11-38-31.gif)
 

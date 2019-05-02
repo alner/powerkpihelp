@@ -1,6 +1,6 @@
 # Borders
 
-“Borders” section of toolbar contains the following buttons:
+“Borders” section of the toolbar contains the following buttons:
 
 ![](../.gitbook/assets/image%20%2849%29.png)
 

@@ -1,6 +1,6 @@
 # Show tooltip
 
-It allows to create custom tooltips.
+The action will allow to create custom tooltips.
 
 ![](../.gitbook/assets/showtooltip.png)
 

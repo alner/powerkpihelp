@@ -1,6 +1,6 @@
 # Set Variable
 
-The action will set a variable value based on manually entered text/expression or selected dimension/measure. 
+The action will set a variable value based on the manually entered text/expression or selected dimension/measure. 
 
 {% hint style="info" %}
 Variable will be created during the action execution if it was not created before.

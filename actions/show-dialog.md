@@ -1,10 +1,10 @@
 # Show dialog
 
-It opens a popup dialog when a user clicks or taps on a particular cell on which the action was applied.
+The action will open a popup dialog when a user clicks or taps on a particular cell on which the action has been applied.
 
 ![](../.gitbook/assets/showdialog.png)
 
-The "**Title**" parameter can be used to define a dialog title. Title can be formatted using HTML.
+The "**Title**" parameter can be used to define a dialog title. It can be formatted using HTML.
 
 A Qlik expression can be used in the “Title” parameter by prefixing it with an equals sign, e.g.:
 
@@ -24,7 +24,7 @@ There is a **special macro** wich can be used **to embedd a master visualization
 $object_id{<css styles>}
 ```
 
- **object\_id** - is an Object ID. You can get it using the "Embed chart" context menu or hidden "Developer" menu. As an alternative option, you can use "Single configurator" tool from Qlik Sense Dev Hub. See [Single configurator](https://help.qlik.com/en-US/sense-developer/Subsystems/Dev-Hub/Content/Sense_Dev-Hub/SingleConfigurator/dev-hub-single-configurator.htm) help for more details.
+ **object\_id** - is an Object ID. You can get it by using the "Embed chart" context menu or hidden "Developer" menu. As an alternative option, you can use "Single configurator" tool from Qlik Sense Dev Hub. See [Single configurator](https://help.qlik.com/en-US/sense-developer/Subsystems/Dev-Hub/Content/Sense_Dev-Hub/SingleConfigurator/dev-hub-single-configurator.htm) help for more details.
 
 {% hint style="info" %}
 See video below how to use hidden menu for developers.

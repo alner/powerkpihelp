@@ -1,6 +1,6 @@
 # Lock
 
-Locks a field selection.
+The action will lock a field selection.
 
 ![](../.gitbook/assets/image%20%28147%29.png)
 

@@ -1,6 +1,6 @@
 # Apply bookmark
 
-Applies a bookmark.
+The action will apply a bookmark.
 
 ![](../.gitbook/assets/image%20%2837%29.png)
 

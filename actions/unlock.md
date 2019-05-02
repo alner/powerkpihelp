@@ -1,6 +1,6 @@
 # Unlock
 
-Unlocks field selections.
+The action will unlock field selections.
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 

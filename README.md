@@ -18,7 +18,7 @@ It allows developers to design data views visually in accordance with business r
 
 {% page-ref page="visual-editor/" %}
 
-There is an also predefined set of actions based on Qlik stable API.
+There is also a predefined set of actions based on Qlik stable API.
 
 {% page-ref page="actions/" %}
 

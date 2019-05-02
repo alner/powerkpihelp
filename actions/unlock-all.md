@@ -1,6 +1,6 @@
 # Unlock all
 
-Unlocks all selections that has previously been locked.
+The action will unlock all selections that have previously been locked.
 
 There are no parameters available.
 
