@@ -12,7 +12,7 @@ The PowerKPI component should be installed to be able to play around with the de
 Some business demo apps are available on our Qlik Sense Demo portal. To see more demos feel free to contact us in one of the preferable way following [https://www.rbcgrp.com/en/contacts/](https://www.rbcgrp.com/en/contacts/) link.
 {% endhint %}
 
-Some screensots from the demo app.
+Some screenshots from the demo app.
 
 ![](.gitbook/assets/demos.png)
 
