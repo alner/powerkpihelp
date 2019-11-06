@@ -24,6 +24,8 @@ There is also a predefined set of actions based on Qlik stable API.
 
 ![](.gitbook/assets/kpis.png)
 
+![](.gitbook/assets/netincome.png)
+
 ![Examples](.gitbook/assets/visualizations.png)
 
 {% hint style="info" %}
