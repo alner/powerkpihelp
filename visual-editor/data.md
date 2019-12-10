@@ -8,13 +8,15 @@
 Dimensions / Measures
 {% endhint %}
 
-* ![](../.gitbook/assets/image%20%2891%29.png)  - **open data panel** contains dimensions and measures which can be bonded to cell using simple drag-and-drop:
+* ![](../.gitbook/assets/image%20%2891%29.png)
+  - **open data panel** contains dimensions and measures which can be bonded to cell using simple drag-and-drop:
 
 ![](../.gitbook/assets/image%20%2892%29.png)
 
 Data panel will show all dimensions \(if any were used\) and measures which were added to Data section of the properties panel.
 
-Each dimension and measure contain “Label” ![](../.gitbook/assets/image%20%2870%29.png) button, which will allow you to bind dimension/measure label within the template. Each measure, except the “Label” button, contains “Totals”   ![](../.gitbook/assets/image%20%2848%29.png) button. It allows you to bind the total calculated for appropriate measure within the template. It makes sense to use “Totals” when constructing table-like templates. 
+
+Each dimension and measure contain “Label” ![](../.gitbook/assets/image%20%2870%29.png) button, which will allow you to bind dimension/measure label within the template. Each measure, except the “Label” button, contains “Totals”   ![](../.gitbook/assets/image%20%2848%29.png) button. It allows you to bind the total calculated for appropriate measure within the template. It makes sense to use “Totals” when constructing table-like templates. 
 
 To bind a measure/dimension with the appropriate cell, select a cell and click the appropriate measure/dimension. Or, if you prefer, drag data item \(dimension, measure, label or total\) onto the template and drop it on the appropriate cell. In such a way you will bind your data assets to the designed template.
 
@@ -36,7 +38,8 @@ Delete
 Actions
 {% endhint %}
 
-* ![](../.gitbook/assets/image%20%282%29.png) -   **open actions panel** allows you to apply actions on the selected cell
+* ![](../.gitbook/assets/image%20%282%29.png) - 
+  **open actions panel** allows you to apply actions on the selected cell
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
@@ -49,10 +52,11 @@ See “Actions” section of the documentation for more details.
 
 
 {% hint style="info" %}
-Tags
+[](#Tags)Tags
 {% endhint %}
 
-* ![](../.gitbook/assets/image%20%2852%29.png) -   **open “Tags” panel** allows you to make a markup of template to be able to build table-like views \(it makes sense to use only for table-like views with dimensions\)
+* ![](../.gitbook/assets/image%20%2852%29.png) - 
+  **open “Tags” panel** allows you to make a markup of template to be able to build table-like views \(it makes sense to use only for table-like views with dimensions\)
 
 ![](../.gitbook/assets/image%20%2861%29.png)
 
@@ -72,7 +76,8 @@ If you need to change your markup, you can click on ![](../.gitbook/assets/image
 Text
 {% endhint %}
 
-* ![](../.gitbook/assets/image%20%28140%29.png)   - **insert any text into the selected cell**
+* ![](../.gitbook/assets/image%20%28140%29.png) 
+  - **insert any text into the selected cell**
 
 ![](../.gitbook/assets/2019-04-02_11-08-04.gif)
 
@@ -122,7 +127,8 @@ Alternatively, if the selected cell contains data binding \(dimension/field with
 
 ![](../.gitbook/assets/2019-04-02_11-38-31.gif)
 
-“Sizing” parameter allows you to choose one of the predefined values to size image accordingly inside the selected cell.
+
+“Sizing” parameter allows you to choose one of the predefined values to size image accordingly inside the selected cell.
 
  Using “Position” parameter, you might position an image in accordance with your requirements inside the selected cell.
 
