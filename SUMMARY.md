@@ -1,6 +1,7 @@
 # Table of contents
 
 * [PowerKPI for Qlik Sense](README.md)
+* [What's new](whats-new.md)
 * [Installation](installation.md)
 * [Activation](activation/README.md)
   * [Online activation](activation/online-activation.md)
