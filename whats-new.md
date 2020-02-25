@@ -54,7 +54,7 @@ Hold **Shift** and use **arrows** to select cells;
 
 **Ctrl + Space** \(**⌘ + Space**\) - opens dimensions and measures popup menu.
 
-* **and a lot of performance improvements and bug fixes**.
+* **and other performance improvements and bug fixes**.
 
 
 
