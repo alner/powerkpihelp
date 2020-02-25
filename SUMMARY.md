@@ -32,6 +32,8 @@
   * [Alignment](visual-editor/alignment.md)
   * [Font](visual-editor/font.md)
 * [Actions](actions/README.md)
+  * [Apply symbol](actions/apply-symbol.md)
+  * [Apply styles](actions/apply-styles.md)
   * [Set Variable](actions/set-variable.md)
   * [Activate View](actions/activate-view.md)
   * [Go to sheet](actions/go-to-sheet.md)
