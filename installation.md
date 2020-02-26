@@ -40,9 +40,9 @@ PowerKPI extension needs to be activated after importing it on Qlik Sense Enterp
 
 7. Add new content security policy item by filling up the following parameters under the "Add origin" dialog window and then click "Add" to finish with it:
 
-* Name: powerkpi
-* Origin: ext.rbcgrp.com
-* Directive: connect-src
+* Name: **powerkpi**
+* Origin: **ext.rbcgrp.com**
+* Directive: **connect-src**
 
 ![](.gitbook/assets/securitypolicy.png)
 
