@@ -2,6 +2,7 @@
 
 ### February 2020
 
+* **Qlik Cloud Services support \(Business and Enterprise\)**
 * **Preview in the Qlik Sense Edit mode** works now in the same way as component visualize data in the Analysis mode.  To open up the PowerKPI editor a developer should click on a button ![](.gitbook/assets/image%20%28151%29.png) in the top left corner of the component or, as another option, open Visualizations sections on the property panel and then expand an appropriate  visualization and click on the "Edit template" button. The editor will be loaded and shown instead of a visualization.
 
 ![](.gitbook/assets/neweditmode.gif)
@@ -54,7 +55,6 @@ Hold **Shift** and use **arrows** to select cells;
 
 **Ctrl + Space** \(**⌘ + Space**\) - opens dimensions and measures popup menu.
 
-* **Qlik Cloud Services support \(Business and Enterprise\)**
 * **and other performance improvements and bug fixes**.
 
 
