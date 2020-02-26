@@ -29,14 +29,10 @@ There is also a predefined set of actions based on Qlik stable API.
 ![Examples](.gitbook/assets/visualizations.png)
 
 {% hint style="info" %}
-See "Features overview" for more details.
+See "[Features overview](features-overview.md)" for more details.
 {% endhint %}
-
-{% page-ref page="features-overview.md" %}
 
 {% hint style="info" %}
-See "Demo Apps".
+See also "[Demo Apps](demo-apps.md)".
 {% endhint %}
-
-{% page-ref page="demo-apps.md" %}
 
