@@ -26,7 +26,7 @@ After clicking the “Activate” button, you will see the activation dialog.
 
 **5. At the end of the license you set “I accept the license” checkbox and click the “Next” button.**
 
-**6.  On the next page you enter your activation key received while purchasing the product.**
+**6.  On the next page you enter your activation key received while purchasing the product and fill up the "Organization" field if it is empty.**
 
 {% hint style="info" %}
  Leave the “Activation key” field empty if you are making a trial activation request.
