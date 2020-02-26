@@ -31,11 +31,11 @@
 
 ![](.gitbook/assets/dimsmeasurespopup.gif)
 
-* **Apply styles action** allows to conditionally apply styles on a cell.
+* **Apply styles action** allows to conditionally apply styles on a cell. See the action description [here](actions/apply-styles.md).
 
 ![](.gitbook/assets/applystylesaction.png)
 
-* **Apply symbol action** allows conditionally add an icon to a measure
+* **Apply symbol action** allows conditionally add an icon to a measure. See the action description [here](actions/apply-symbol.md).
 
 ![](.gitbook/assets/applysymbolaction.png)
 
