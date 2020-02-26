@@ -1,24 +1,22 @@
 # Visual editor
 
-Visual editor allows you to create and edit visualization templates, which can be added using properties panel of the component \(see section “Visualizations” of the documentation\).
+Visual editor allows you to create and edit visualization templates, which can be added using properties panel of the component \(see section “[Visualizations](../properties/visualizations.md)” of the documentation\).
 
 {% page-ref page="../properties/visualizations.md" %}
 
-Spreadsheet-like visual editor allows developers to visually design stunning-looking, responsive and interactive visualizations: from simple kpi to interactive fancy and stunning-looking "table-like" data views \(with the ability to build custom multiline detailed row templates\).
+Spreadsheet-like visual editor allows developers to visually design stunning-looking, responsive and interactive visualizations: from simple kpi to interactive fancy and stunning-looking "table-like" data views \(with the ability to build custom multiline detailed views\).
 
 ![](../.gitbook/assets/visualeditor1.png)
-
-To create an appropriate visualization template, you should add columns/rows, merge cells in accordance with the requirements.  Quick add buttons allows to easily add columns / rows.
-
-![](../.gitbook/assets/quickaddcellsbuttons.gif)
-
-You should bind dimensions and measures with the template, and then apply various styles options – fonts, alignment, borders, colors, backgrounds.
 
 The "Dimensions/Measures" panel automatically opens up when new visualization created. "Apply all" button allows developers to apply and use all dimensions and measures configured on the data sections of the property panel. It also applies predefined set of actions like "Sort", "Alternative dimensions/measures", "Searchable dimension", "Select dimension value", etc.
 
 ![](../.gitbook/assets/productivityenhancements.gif)
 
-To bind a dimension or measure with the template just double click on a cell or use **Ctrl + Space** \(**⌘ + Space**\)  to open dimensions and measures popup menu and then select an appropriate item.
+To create a custom visualization template, you should add columns/rows, merge cells in accordance with the requirements.  Quick add buttons allows to easily add columns / rows.
+
+![](../.gitbook/assets/quickaddcellsbuttons.gif)
+
+You should bind dimensions and measures with the custom template, and then apply various styles options – fonts, alignment, borders, colors, backgrounds. To bind a dimension or measure with the template just double click on a cell or use **Ctrl + Space** \(**⌘ + Space**\)  to open dimensions and measures popup menu and then select an appropriate item. As an alternative, developers can use "Dimensions/Measures" [data](data.md) panel.
 
 ![](../.gitbook/assets/dimsmeasurespopup.gif)
 
@@ -42,17 +40,23 @@ In the top left corner of the toolbar panel there is a button which allows a qui
 
 
 
-Button ![](../.gitbook/assets/image%20%2890%29.png) on the toolbar panel allows you to open the context menu, which allows copying, exporting and importing designed templates as well as opening template settings panel.
+Button ![](../.gitbook/assets/menubutton.png) on the toolbar panel of the editor allows you to open up a menu, which allows copying, exporting and importing designed templates as well as opening template properties panel \("Show properties" menu item\). 
 
-![](../.gitbook/assets/image%20%28104%29.png)
+![](../.gitbook/assets/templatemenu.png)
 
-Settings panel allows to apply “Fit to height” parameter, which will shrink or stretch visualization to fit the occupied area. It is recommended to set this option on visualization templates for dashboards.
+A developer can use "Export" button to export developed template into a file, a then import it in another component using "Select file..." menu item. In such a way, developers can create own visualization templates library in the form of files on a drive.
+
+To open a template properties panel use "Show properties" menu item.
+
+![](../.gitbook/assets/templateprops.png)
+
+Properties panel allows to apply “Fit to height” parameter, which will shrink or stretch visualization to fit the occupied area. It is recommended to set this option on visualization templates without dimensions only.
+
+"Scrolling" options allows to choose between Native or Virtual scrolling mode for tables**.** Native mode is used ****when "Scrolling" option is set. ****Native mode uses native pageable scroll in which the  "Load more" or "Load previous" buttons can be used to load the next or previous page of the data, while virtual scrolling mode allows to scroll the entire dataset.
 
 “Background image” allows adding an image as a background for templates. 
 
 “Thumbnail” allows setting a thumbnail for templates.
-
-![](../.gitbook/assets/image%20%2831%29.png)
 
 The toolbar also has buttons to “undo/redo” changes and a “Save” button, along with template and hypercube titles.
 
