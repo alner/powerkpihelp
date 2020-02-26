@@ -54,6 +54,7 @@ Hold **Shift** and use **arrows** to select cells;
 
 **Ctrl + Space** \(**⌘ + Space**\) - opens dimensions and measures popup menu.
 
+* **Qlik Cloud Services support \(Business and Enterprise\)**
 * **and other performance improvements and bug fixes**.
 
 
