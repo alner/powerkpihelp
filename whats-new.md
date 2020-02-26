@@ -2,7 +2,7 @@
 
 ### February 2020
 
-* **Qlik Cloud Services support \(Business and Enterprise\)**
+* **Qlik Cloud Services support \(Business and Enterprise\).** See installation instructions [here](https://help.rbcgrp.com/installation#how-to-install-extension-on-qlik-cloud-services-business-and-enterprise).
 * **Preview in the Qlik Sense Edit mode** works now in the same way as component visualize data in the Analysis mode.  To open up the PowerKPI editor a developer should click on a button ![](.gitbook/assets/image%20%28151%29.png) in the top left corner of the component or, as another option, open Visualizations sections on the property panel and then expand an appropriate  visualization and click on the "Edit template" button. The editor will be loaded and shown instead of a visualization.
 
 ![](.gitbook/assets/neweditmode.gif)
