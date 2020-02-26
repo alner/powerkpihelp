@@ -10,7 +10,7 @@
 
 ![](.gitbook/assets/contextmenu.gif)
 
-* **Developers productivity enhancements** - ability to create visualization template in couple of clicks. The "Dimensions/Measures" panel automatically opens when new visualization created. "Apply all" button allows developers to apply and use all dimensions and measures configured on the data sections of the property panel. It also applies predefined set of actions like "Sort", "Alternative dimensions/measures", "Searchable dimension", "Select dimension value", etc.
+* **Developers productivity enhancements** - ability to create visualization template in couple of clicks. The "Dimensions/Measures" panel automatically opens up when new visualization created. "Apply all" button allows developers to apply and use all dimensions and measures configured on the data sections of the property panel. It also applies predefined set of actions like "Sort", "Alternative dimensions/measures", "Searchable dimension", "Select dimension value", etc.
 
 ![](.gitbook/assets/productivityenhancements.gif)
 
