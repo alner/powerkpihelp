@@ -24,11 +24,11 @@ PowerKPI extension needs to be activated after importing it on Qlik Sense Enterp
 ## How to install extension on Qlik Cloud Services \(Business and Enterprise\)
 
 1. Navigate and login into your qlik cloud tenant.
-2. Open management console by clicking on avatar in the top right corner of the tenant hub and select **Administration** menu item**.**
+2. Open management console by clicking on the avatar in the top right corner of the tenant hub and select the **Administration** menu item**.**
 
 ![](.gitbook/assets/qlikcloudmenu.png)
 
-3. In the left menu, under "Content", find and click on "Extensions"
+3.  In the management console, under the "Content" header, find and click on the "Extensions" section.
 
 4. Click "Add" button to open up the "Add extension" dialog
 
@@ -36,7 +36,7 @@ PowerKPI extension needs to be activated after importing it on Qlik Sense Enterp
 
 5. To add an extension click "Browse" button, select powerkpi.zip file and then click "Add".
 
-6.  In the left menu, under "Integration", find and click on "Content Security Policy" and then click "Add" button.
+6.  In the management console, go to the "Content Security Policy" section under the "Integration" header and click "Add" in upper the right-hand corner.
 
 7. Add new content security policy item by filling up the following parameters under the "Add origin" dialog window and then click "Add" to finish with it:
 
