@@ -99,7 +99,11 @@ It is easy to add and customize histogram mini chart in your data view template 
 
 ![&quot;Mini chart&quot; action](.gitbook/assets/features16.png)
 
-Use one from a predefined set of minicharts to visually represent your KPIs. See “Mini chart” action of the documentation for more details.
+Use one from a predefined set of minicharts to visually represent your KPIs. 
+
+![](.gitbook/assets/netincome.png)
+
+See “Mini chart” action of the documentation for more details.
 
 ![Mini chart customization](.gitbook/assets/features17.png)
 
