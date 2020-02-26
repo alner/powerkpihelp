@@ -6,25 +6,41 @@ Visual editor allows you to create and edit visualization templates, which can b
 
 Spreadsheet-like visual editor allows developers to visually design stunning-looking, responsive and interactive visualizations: from simple kpi to interactive fancy and stunning-looking "table-like" data views \(with the ability to build custom multiline detailed row templates\).
 
-To create an appropriate visualization template, you should add columns/rows, merge cells in accordance with the requirements. You should bind dimensions and measures with the template, and then apply various styles options – fonts, alignment, borders, colors, backgrounds.
-
 ![](../.gitbook/assets/visualeditor1.png)
 
-In the top left corner of the toolbar panel there is a button which allows a quick and easy switch between visualization templates.
+To create an appropriate visualization template, you should add columns/rows, merge cells in accordance with the requirements.  Quick add buttons allows to easily add columns / rows.
+
+![](../.gitbook/assets/quickaddcellsbuttons.gif)
+
+You should bind dimensions and measures with the template, and then apply various styles options – fonts, alignment, borders, colors, backgrounds.
+
+The "Dimensions/Measures" panel automatically opens up when new visualization created. "Apply all" button allows developers to apply and use all dimensions and measures configured on the data sections of the property panel. It also applies predefined set of actions like "Sort", "Alternative dimensions/measures", "Searchable dimension", "Select dimension value", etc.
+
+![](../.gitbook/assets/productivityenhancements.gif)
+
+To bind a dimension or measure with the template just double click on a cell or use **Ctrl + Space** \(**⌘ + Space**\)  to open dimensions and measures popup menu and then select an appropriate item.
+
+![](../.gitbook/assets/dimsmeasurespopup.gif)
+
+Editor context menu can be used to increase a developer productivity. Toolbar panel can also be collapsed to increase the working area and expanded again if need it.
+
+![](../.gitbook/assets/contextmenu.gif)
+
+To preview visualization, click “Preview” tab at the top of the toolbar. 
+
+To open up the PowerKPI editor a developer should click on a button ![](../.gitbook/assets/image%20%28151%29.png) in the top left corner of the component or, as another option, open Visualizations sections on the property panel and then expand an appropriate  visualization and click on the "Edit template" button.
+
+![](../.gitbook/assets/neweditmode.gif)
+
+In the top left corner of the toolbar panel there is a button which allows a quick and easy switch between visualization templates \(if several visualizations have been created in one component\).
 
 ![](../.gitbook/assets/image%20%28100%29.png)
-
-To preview visualization, click “Preview” tab at the top of the toolbar.
-
-![](../.gitbook/assets/image%20%2821%29.png)
 
 “Custom objects” tab allows you to preview and apply a predefined visualization template.
 
 ![](../.gitbook/assets/image%20%2874%29.png)
 
-Tab with pencil icon ![](../.gitbook/assets/image%20%28118%29.png)along with visualization title allow you to switch back to the edit mode.
 
-![](../.gitbook/assets/image%20%288%29.png)
 
 Button ![](../.gitbook/assets/image%20%2890%29.png) on the toolbar panel allows you to open the context menu, which allows copying, exporting and importing designed templates as well as opening template settings panel.
 
