@@ -18,7 +18,7 @@
 
 ![](.gitbook/assets/quickaddcellsbuttons.gif)
 
-* **Native or Virtual scrolling mode for tables.** Native mode uses native pageable scroll in which the  "Load more" or "Load previous" buttons can be used to load the next or previous page of the data, while virtual scrolling mode allows to scroll entire dataset.
+* **Native or Virtual scrolling mode for tables.** Native mode uses native pageable scroll in which the  "Load more" or "Load previous" buttons can be used to load the next or previous page of the data, while virtual scrolling mode allows to scroll the entire dataset.
 
 ![](.gitbook/assets/scrolling.gif)
 

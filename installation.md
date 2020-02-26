@@ -5,10 +5,10 @@ Download the latest version of the extension from [powerkpi.rbcgrp.com](https://
 ## How to install extensions on Qlik Sense Desktop
 
 1. Navigate to the Extensions folder at C:\Users\&lt;username&gt;\Documents\Qlik\Sense\Extensions
-2. Unzip the powerkpi.zip file containing the extension
-3. Copy and paste the unzipped extension folder into the Qlik Sense Extensions folder
+2. Create a new folder and give it powerkpi name
+3. Unzip downloaded powerkpi.zip file to the new folder
 
-## How to install extensions on Qlik Sense Enterprise
+## How to install extensions on Qlik Sense Enterprise or Qlik Analytics Platform
 
 1. Navigate to the QMC
 2. In the left menu, under "Manage Resources", find and click on "Extensions"
