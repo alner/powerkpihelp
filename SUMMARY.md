@@ -31,6 +31,7 @@
   * [Borders](visual-editor/borders.md)
   * [Alignment](visual-editor/alignment.md)
   * [Font](visual-editor/font.md)
+  * [Visual editor keyboard shortcuts](visual-editor/visual-editor-keyboard-shortcuts.md)
 * [Actions](actions/README.md)
   * [Apply symbol](actions/apply-symbol.md)
   * [Apply styles](actions/apply-styles.md)

@@ -78,11 +78,15 @@ To be able to merge cells, you should select cells from the top left cell to the
 
 To select an entire column, you should click the column header \(the cell with the column number\). In such a way, by clicking the row number, you can also select the entire row. It is possible to select several columns/rows by selecting the corresponding column/row headers.
 
+{% hint style="info" %}
+To increase developer's productivity the editor context menu and/or keyboard shortcuts can be used. See [Visual Editor keyboard shortcuts](visual-editor-keyboard-shortcuts.md) for more details.
+{% endhint %}
+
 Main operations are grouped by sections on the toolbar:
 
 ![](../.gitbook/assets/visualeditortoolbar.png)
 
-*  “**Cells**” operations allow you adding/removing cells, as well as changing cells settings;
+“**Cells**” operations allow you adding/removing cells, as well as changing cells settings;
 
 {% page-ref page="cells.md" %}
 
