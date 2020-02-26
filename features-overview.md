@@ -101,7 +101,7 @@ It is easy to add and customize histogram mini chart in your data view template 
 
 ![&quot;Mini chart&quot; action](.gitbook/assets/features16.png)
 
-Use one from a predefined set of minicharts to visually represent your KPIs. 
+Use one from a predefined set of minicharts to visually represent your KPIs. As an example, developers can design tables with waterfall charts in the columns.
 
 ![](.gitbook/assets/netincome.png)
 
