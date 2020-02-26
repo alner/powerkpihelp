@@ -55,6 +55,8 @@ Hold **Shift** and use **arrows** to select cells;
 
 **Ctrl + Space** \(**⌘ + Space**\) - opens dimensions and measures popup menu.
 
+See full editor keyboard shortcuts list [here](visual-editor/visual-editor-keyboard-shortcuts.md).
+
 * **and other performance improvements and bug fixes**.
 
 
