@@ -15,10 +15,10 @@ Download the latest version of the extension from [powerkpi.rbcgrp.com](https://
 3. Click "Import" on the bottom nav bar
 4. Click "Choose File" and navigate to the downloaded extension powerkpi.zip
 5. Click "Import" to finish
-6. Activate Power KPI component \(see link below\).
+6. Activate Power KPI component \(go to [Activation ](activation/)page for more details\).
 
 {% hint style="info" %}
-PowerKPI extension needs to be activated after importing it on Qlik Sense Enterprise Server. See the **Activation** section of this documentation for more details.
+PowerKPI extension needs to be activated after importing it on Qlik Sense Enterprise Server. See the [**Activation** ](activation/)section of this documentation for more details.
 {% endhint %}
 
 ## How to install extension on Qlik Cloud Services \(Business\)
@@ -46,7 +46,7 @@ PowerKPI extension needs to be activated after importing it on Qlik Sense Enterp
 
 ![](.gitbook/assets/securitypolicy.png)
 
-8. Activate Power KPI component \(see link below\).
+8. Activate Power KPI component \(go to [Activation ](activation/)page for more details\).
 
 {% hint style="info" %}
  The installation process is also described in Qlik Sense Help.
