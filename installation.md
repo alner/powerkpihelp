@@ -1,14 +1,16 @@
 # Installation
 
-Download the latest version of the extension from [powerkpi.rbcgrp.com](https://powerkpi.rbcgrp.com).
+This section describes how to install the extension on various versions of Qlik Sense.
 
-## How to install extensions on Qlik Sense Desktop
+Download the latest version of the extension from [powerkpi.rbcgrp.com](https://powerkpi.rbcgrp.com). 
+
+## Qlik Sense Desktop
 
 1. Navigate to the Extensions folder at C:\Users\&lt;username&gt;\Documents\Qlik\Sense\Extensions
 2. Create a new folder and give it powerkpi name
 3. Unzip downloaded powerkpi.zip file to the new folder
 
-## How to install extensions on Qlik Sense Enterprise or Qlik Analytics Platform
+## Qlik Sense Enterprise or Qlik Analytics Platform
 
 1. Navigate to the QMC
 2. In the left menu, under "Manage Resources", find and click on "Extensions"
@@ -21,7 +23,7 @@ Download the latest version of the extension from [powerkpi.rbcgrp.com](https://
 PowerKPI extension needs to be activated after importing it on Qlik Sense Enterprise Server. See the [**Activation** ](activation/)section of this documentation for more details.
 {% endhint %}
 
-## How to install extension on Qlik Cloud Services \(Business and Enterprise\)
+## Qlik Cloud Services \(Business and Enterprise\)
 
 1. Navigate and login into your qlik cloud tenant.
 2. Open management console by clicking on the avatar in the top right corner of the tenant hub and select the **Administration** menu item**.**
