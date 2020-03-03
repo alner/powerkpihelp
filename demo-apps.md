@@ -22,6 +22,8 @@ Some screenshots from the demo app.
 
 
 
+![](.gitbook/assets/netincome.png)
+
 ![](.gitbook/assets/demos3.png)
 
 
