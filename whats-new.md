@@ -2,7 +2,7 @@
 
 ### February 2020
 
-* **Qlik Cloud Services support \(Business and Enterprise\).** See installation instructions [here](https://help.rbcgrp.com/installation#how-to-install-extension-on-qlik-cloud-services-business-and-enterprise).
+* **Qlik Cloud Services \(Business and Enterprise\)** and **Qlik Sense Enterprise on Kubernetes support.** See installation instructions [here](https://help.rbcgrp.com/installation#how-to-install-extension-on-qlik-cloud-services-business-and-enterprise).
 * **Preview in the Qlik Sense Edit mode** works now in the same way as component visualize data in the Analysis mode.  To open up the PowerKPI editor a developer should click on a button ![](.gitbook/assets/image%20%28151%29.png) in the top left corner of the component or, as another option, open Visualizations sections on the property panel and then expand an appropriate  visualization and click on the "Edit template" button. The editor will be loaded and shown instead of a visualization.
 
 ![](.gitbook/assets/neweditmode.gif)
@@ -11,7 +11,7 @@
 
 ![](.gitbook/assets/contextmenu.gif)
 
-* **Developers productivity enhancements** - ability to create visualization template in couple of clicks. The "Dimensions/Measures" panel automatically opens up when new visualization created. "Apply all" button allows developers to apply and use all dimensions and measures configured on the data sections of the property panel. It also applies predefined set of actions like "Sort", "Alternative dimensions/measures", "Searchable dimension", "Select dimension value", etc.
+* **Developers productivity enhancements** - ability to create a visualization template in couple of clicks. The "Dimensions/Measures" panel automatically opens up when new visualization created. "Apply all" button allows developers to apply and use all dimensions and measures configured on the data sections of the property panel. It also applies predefined set of actions like "Sort", "Alternative dimensions/measures", "Searchable dimension", "Select dimension value", etc.
 
 ![](.gitbook/assets/productivityenhancements.gif)
 
@@ -23,11 +23,11 @@
 
 ![](.gitbook/assets/scrolling.gif)
 
-* **"Fit height" quick button.** It allows to set mode  in which it will shrink or stretch visualization to fit the occupied by the component area.
+* **"Fit height" quick button.** It allows to set mode  in which it will shrink or stretch a visualization to fit the occupied by the component area.
 
 ![](.gitbook/assets/fitheight.gif)
 
-* **Dimensions and measures popup menu.** Double click on a cell or use **Ctrl + Space** \(**⌘ + Space**\)  to open dimensions and measures popup menu.
+* **Dimensions and measures popup menu.** Double click on a cell or use **Ctrl + Space** \(**⌘ + Space**\)  to open up the dimensions and measures popup menu.
 
 ![](.gitbook/assets/dimsmeasurespopup.gif)
 
@@ -41,7 +41,7 @@
 
 * **Editor keyboard shortcuts** enhancements
 
-Keyboard **arrows** allow to navigate between cells; 
+Keyboard **arrows keys** allow to navigate between cells; 
 
 Hold **Shift** and use **arrows** to select cells;
 
@@ -49,11 +49,11 @@ Hold **Shift** and use **arrows** to select cells;
 
 **Ctrl + Alt + E** \(**⌘ + Alt + E**\) - edit mode \(for selected component\);
 
-**Ctrl + Alt + C** \(**⌘ + Alt + C**\) - copy cell content \(including styling options and actions\);
+**Ctrl + Alt + C** \(**⌘ + Alt + C**\) - copy a cell content \(including styling options and actions\);
 
 **Ctrl + Alt + V** \(**⌘ + Alt + V**\) - paste copied cell content;
 
-**Ctrl + Space** \(**⌘ + Space**\) - opens dimensions and measures popup menu.
+**Ctrl + Space** \(**⌘ + Space**\) - opens up the dimensions and measures popup menu.
 
 See full editor keyboard shortcuts list [here](visual-editor/visual-editor-keyboard-shortcuts.md).
 
