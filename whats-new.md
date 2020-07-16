@@ -6,7 +6,7 @@
 
 ![](.gitbook/assets/resize.gif)
 
-It is also possible to change width/height of a column/row with the help of the resize dialog by clicking on a column/row resize icon.
+It is also possible to change width/height of a column/row using the resize dialog by clicking on a column/row resize icon.
 
 ![](.gitbook/assets/resize2.gif)
 
