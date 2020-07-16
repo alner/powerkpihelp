@@ -106,6 +106,10 @@ See "Content libraries" in Qlik help for more details
 
 Image ![](../.gitbook/assets/image%20%2878%29.png) button will allow you to select an image from one of the predefined content libraries.
 
+It is also possible to embed an image in a visualization template using BASE64 encoding.
+
+![](../.gitbook/assets/base64.gif)
+
 Alternatively, if the selected cell contains data binding \(dimension/field with images links\), you might want to select “From a field” option.
 
 ![](../.gitbook/assets/2019-04-02_11-38-31.gif)
@@ -113,4 +117,16 @@ Alternatively, if the selected cell contains data binding \(dimension/field with
 “Sizing” parameter allows you to choose one of the predefined values to size image accordingly inside the selected cell.
 
 Using “Position” parameter, you might position an image in accordance with your requirements inside the selected cell.
+
+{% hint style="info" %}
+Master items
+{% endhint %}
+
+To embed a master visualization in a cell click on a toolbar button  ![](../.gitbook/assets/masteritemstoolbar.png) and select a master visualization in the popup menu. 
+
+![](../.gitbook/assets/masterobject.gif)
+
+It also possible to use the context menu for a selected cell \(select a cell and click on the right mouse key\), which allows to change the interactions and selections options for the master object, or delete ****the ****embedded master object.
+
+![](../.gitbook/assets/masteritemsincontextmenu.png)
 

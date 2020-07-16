@@ -2,7 +2,7 @@
 
 “Font” section of the toolbar contains the following buttons:
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](../.gitbook/assets/fonttools.png)
 
 * ![](../.gitbook/assets/image%20%2834%29.png) - make text bold
 * ![](../.gitbook/assets/image%20%2888%29.png) - make text italic
@@ -23,6 +23,14 @@ It allows you to select or enter the text size. There are several ways to specif
 {% hint style="info" %}
 If you make the text responsive and specify the font size at same time, it will be responsive but not more than the specified size.
 {% endhint %}
+
+* ![](../.gitbook/assets/fonttag.png) - allows to set a font tag which defines global font size context. It will apply the same font size using same font in the PowerKPI objects if they have same size on a sheet as well as  the same cells size in the visualization templates. This button will be shown if the responsive option set by using the ![](../.gitbook/assets/image%20%2889%29.png)toolbar button.
+
+![](../.gitbook/assets/fonttags.gif)
+
+![Same font size when font tags have been applied on the Margin YTD and Orders YTD KPIs](../.gitbook/assets/samefontsize.png)
+
+![Different font size without font tags](../.gitbook/assets/differentfontsize.png)
 
 * ![](../.gitbook/assets/image%20%2872%29.png) - clear applied font styles
 * ![](../.gitbook/assets/image%20%28132%29.png) - set font color

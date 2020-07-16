@@ -1,6 +1,48 @@
 # What's new
 
-* **Qlik Sense June 2020 accreditation on Trusted Extension Developer program**
+### September 2020
+
+* **Resizing of columns and rows** has been added to be able to design more sophisticated visualization templates.
+
+![](.gitbook/assets/resize.gif)
+
+It is also possible to change width/height of a column/row with the help of the resize dialog by clicking on a column/row resize icon.
+
+![](.gitbook/assets/resize2.gif)
+
+* It is an easy to **embed images** in visualizations **in base64 encoding** now.
+
+![](.gitbook/assets/base64.gif)
+
+* **Embedding master visualizations** can be done by using a toolbar button or by using the context menu for a selected cell, which also allows to **change the interactions and selections options** for the master object, or **delete** the **embedded master object**.
+
+![](.gitbook/assets/masterobject.gif)
+
+* **Inserts and deletes operations** have been **improved** and it is now possible to inserts or deletes columns or rows even if there are cells that span across several columns or rows.
+
+![](.gitbook/assets/insertcells.gif)
+
+![](.gitbook/assets/deletecells.gif)
+
+* **Font tags** allows to apply the **same font size** on various PowerKPI objects if they have same size on a sheet.
+
+![](.gitbook/assets/fonttags.gif)
+
+![Same font size when font tags have been applied on the Margin YTD and Orders YTD KPIs](.gitbook/assets/samefontsize.png)
+
+![Different font size without font tags](.gitbook/assets/differentfontsize.png)
+
+* **Apply symbol action** has been **extended** with the possibility to map "Symbol" expression values to icons.
+
+![](.gitbook/assets/applysymbolexpression.gif)
+
+* and other small improvements:
+  * the Value color action has been extended with the "Text color expression" option. 
+  * Shift + click on a color picker apply a color without opening the color dialog.
+
+### April, June 2020
+
+* **Qlik Sense June 2020 accreditation on Trusted Extension Developer program.**
 * **Qlik Cloud Services \(Business and Enterprise\)** and **Qlik Sense Enterprise on Kubernetes support.** See installation instructions [here](https://help.rbcgrp.com/installation#how-to-install-extension-on-qlik-cloud-services-business-and-enterprise).
 * **Preview in the Qlik Sense Edit mode** works now in the same way as component visualize data in the Analysis mode.  To open up the PowerKPI editor a developer should click on a button ![](.gitbook/assets/image%20%28151%29.png) in the top left corner of the component or, as another option, open Visualizations sections on the property panel and then expand an appropriate  visualization and click on the "Edit template" button. The editor will be loaded and shown instead of a visualization.
 

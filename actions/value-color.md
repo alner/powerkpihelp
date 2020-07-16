@@ -38,3 +38,7 @@ Applies one of the predefined heatmap color schemes.
 
 With the help of “Custom” option you will be able to change "Min", "Average" and/or "Max" parameters and specify colors for minimum, average and maximum values. It allows building custom heatmap color schemes.
 
+### Text color expression
+
+This option allows to set a "Font color", "Background color", "Line" or "Symbol" color by using the "Text color expression" for a measure. It has no parameters.
+

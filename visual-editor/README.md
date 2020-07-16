@@ -12,9 +12,17 @@ The "Dimensions/Measures" panel automatically opens up when new visualization cr
 
 ![](../.gitbook/assets/productivityenhancements.gif)
 
-To create a custom visualization template, you should add columns/rows, merge cells in accordance with the requirements.  Quick add buttons allows to easily add columns / rows.
+To create a custom visualization template, you should add columns/rows, merge cells, resize columns and rows in accordance with the design requirements.  Quick add buttons allows to easily add columns / rows.
 
 ![](../.gitbook/assets/quickaddcellsbuttons.gif)
+
+To change column width it needs to hover mouse pointer over a divider between columns and holding left mouse key change the width by dragging it to the right or to the left \(to increase or decrease column width\). In a same way a row height can be changed.
+
+![](../.gitbook/assets/resize.gif)
+
+It is possible to set or change column width \(or row height\) by clicking a special icon or width label shown over the column number \(to the left of a row number\). Popup window will arise and help to set, change or clear a column width \(or a row height\).
+
+![](../.gitbook/assets/resize2.gif)
 
 You should bind dimensions and measures with the custom template, and then apply various styles options – fonts, alignment, borders, colors, backgrounds. To bind a dimension or measure with the template just double click on a cell or use **Ctrl + Space** \(**⌘ + Space**\)  to open dimensions and measures popup menu and then select an appropriate item. As an alternative, developers can use "Dimensions/Measures" [data](data.md) panel.
 
