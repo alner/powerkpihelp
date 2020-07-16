@@ -24,9 +24,9 @@ All positive and negative values will be colored in the selected colors.
 
 ![](../.gitbook/assets/image%20%2899%29.png)
 
-Choose colors for “Less than 100%” and “otherwiser” parameters by clicking the corresponding button ![](../.gitbook/assets/image%20%2869%29.png) or  ![](../.gitbook/assets/image%20%2815%29.png)
+Choose colors for “Less than 100%” and “otherwise” parameters by clicking the corresponding button ![](../.gitbook/assets/image%20%2869%29.png) or  ![](../.gitbook/assets/image%20%2815%29.png)
 
-The color will be applied on a cell with a measure depending on the measure value: if it is less than 1 or greater or equal to 1.
+The color will be applied on a cell with a measure depending on the measure value: if it is less,  greater or equal to 1.
 
 
 

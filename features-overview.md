@@ -79,7 +79,7 @@ A visualization template can be activated based on user interactions using actio
 * “**Export data**” allows you to export data not only from the current data view but also from any predefined master visualization item
 * “**Value color**” and “**Mini chart**” actions allow you to represent numbers in one of the graphically predefined ways
 * “**Zoom in**” and “**Zoom out**” actions allow you to expand visualization in full screen mode and close it
-* “**Sort**” allows to you apply or remove interactive sorting capability for each column separately \(in case of table representations\)
+* “**Sort**” allows you to apply or remove interactive sorting capability for each column separately \(in case of table representations\)
 * “**Alternative dimensions/measures**” action allows you to apply or remove interactive dimensions and measures buttons separately for each data column labels
 * “**Searchable dimension**” allows you to apply or remove search functionality for each individual dimension column.
 

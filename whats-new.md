@@ -10,21 +10,21 @@ It is also possible to change width/height of a column/row using the resize dial
 
 ![](.gitbook/assets/resize2.gif)
 
-* It is an easy to **embed images** in visualizations **in base64 encoding** now.
+* It is easy to **embed images** in visualizations **in base64 encoding** now.
 
 ![](.gitbook/assets/base64.gif)
 
-* **Embedding master visualizations** can be done by using a toolbar button or by using the context menu for a selected cell, which also allows to **change the interactions and selections options** for the master object, or **delete** the **embedded master object**.
+* **Embedding master visualizations** can be done with toolbar button or context menu for a selected cell, which also allows to **change the interactions and selections options** for the master object, or **delete** the **embedded master object**.
 
 ![](.gitbook/assets/masterobject.gif)
 
-* **Inserts and deletes operations** have been **improved** and it is now possible to inserts or deletes columns or rows even if there are cells that span across several columns or rows.
+* **Insert and delete operations** have been **improved** and it is now possible to insert or delete columns or rows even if there are cells which span across several columns or rows.
 
 ![](.gitbook/assets/insertcells.gif)
 
 ![](.gitbook/assets/deletecells.gif)
 
-* **Font tags** allows to apply the **same font size** on various PowerKPI objects if they have same size on a sheet.
+* **Font tags** allow to apply the **same font size** on various PowerKPI objects if they have same size on a sheet.
 
 ![](.gitbook/assets/fonttags.gif)
 
@@ -52,7 +52,7 @@ It is also possible to change width/height of a column/row using the resize dial
 
 ![](.gitbook/assets/contextmenu.gif)
 
-* **Developers productivity enhancements** - ability to create a visualization template in couple of clicks. The "Dimensions/Measures" panel automatically opens up when new visualization created. "Apply all" button allows developers to apply and use all dimensions and measures configured on the data sections of the property panel. It also applies predefined set of actions like "Sort", "Alternative dimensions/measures", "Searchable dimension", "Select dimension value", etc.
+* **Developers productivity enhancements** - ability to create a visualization template in a couple of clicks. The "Dimensions/Measures" panel automatically opens up when new visualization created. "Apply all" button allows developers to apply and use all dimensions and measures configured on the data sections of the property panel. It also applies predefined set of actions like "Sort", "Alternative dimensions/measures", "Searchable dimension", "Select dimension value", etc.
 
 ![](.gitbook/assets/productivityenhancements.gif)
 
@@ -94,7 +94,7 @@ Hold **Shift** and use **arrows** to select cells;
 
 **Ctrl + Alt + V** \(**⌘ + Alt + V**\) - paste copied cell content;
 
-**Ctrl + Space** \(**⌘ + Space**\) - opens up the dimensions and measures popup menu.
+**Ctrl + Space** \(**⌘ + Space**\) - open up the dimensions and measures popup menu.
 
 See full editor keyboard shortcuts list [here](visual-editor/visual-editor-keyboard-shortcuts.md).
 

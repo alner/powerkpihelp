@@ -12,7 +12,7 @@ The "Dimensions/Measures" panel automatically opens up when new visualization cr
 
 ![](../.gitbook/assets/productivityenhancements.gif)
 
-To create a custom visualization template, you should add columns/rows, merge cells, resize columns and rows in accordance with the design requirements.  Quick add buttons allows to easily add columns / rows.
+To create a custom visualization template, you should add columns/rows, merge cells, resize columns and rows in accordance with the design requirements.  Quick add buttons allow to easily add columns / rows.
 
 ![](../.gitbook/assets/quickaddcellsbuttons.gif)
 
@@ -20,11 +20,11 @@ To change column width it needs to hover mouse pointer over a divider between co
 
 ![](../.gitbook/assets/resize.gif)
 
-It is possible to set or change column width \(or row height\) by clicking a special icon or width label shown over the column number \(to the left of a row number\). Popup window will arise and help to set, change or clear a column width \(or a row height\).
+It is possible to set or change column width \(or row height\) by clicking a special icon or width label shown over the column number \(to the left of a row number\). Popup window will arise and help to set, change or clear column width \(or row height\).
 
 ![](../.gitbook/assets/resize2.gif)
 
-You should bind dimensions and measures with the custom template, and then apply various styles options – fonts, alignment, borders, colors, backgrounds. To bind a dimension or measure with the template just double click on a cell or use **Ctrl + Space** \(**⌘ + Space**\)  to open dimensions and measures popup menu and then select an appropriate item. As an alternative, developers can use "Dimensions/Measures" [data](data.md) panel.
+You should bind dimensions and measures with the custom template, and then apply various style options – fonts, alignment, borders, colors, backgrounds. To bind a dimension or measure with the template just double click on a cell or use **Ctrl + Space** \(**⌘ + Space**\)  to open dimensions and measures popup menu and then select an appropriate item. As an alternative, developers can use "Dimensions/Measures" [data](data.md) panel.
 
 ![](../.gitbook/assets/dimsmeasurespopup.gif)
 
@@ -52,7 +52,7 @@ Button ![](../.gitbook/assets/menubutton.png) on the toolbar panel of the editor
 
 ![](../.gitbook/assets/templatemenu.png)
 
-A developer can use "Export" button to export developed template into a file, a then import it in another component using "Select file..." menu item. In such a way, developers can create own visualization templates library in the form of files on a drive.
+A developer can use "Export" button to export developed template into a file, and then import it in another component using "Select file..." menu item. In such a way, developers can create own visualization templates library in the form of files on a drive.
 
 To open a template properties panel use "Show properties" menu item.
 
@@ -60,7 +60,7 @@ A developer can use "Export" button to export developed template into a file, a 
 
 Properties panel allows to apply “Fit to height” parameter, which will shrink or stretch a visualization to fit the occupied by the component area. It is recommended to set this option on visualization templates without dimensions only.
 
-"Scrolling" options allows to choose between Native or Virtual scrolling mode for tables**.** Native mode is used ****when "Scrolling" option is set. ****Native mode uses native pageable scroll in which the  "Load more" or "Load previous" buttons can be used to load the next or previous page of the data, while virtual scrolling mode allows to scroll the entire dataset.
+"Scrolling" option allows to choose between Native or Virtual scrolling mode for tables**.** Native mode is used ****when "Scrolling" option is set. ****Native mode uses native pageable scroll in which the  "Load more" or "Load previous" buttons can be used to load the next or previous page of the data, while virtual scrolling mode allows to scroll the entire dataset.
 
 “Background image” allows adding an image as a background for templates. 
 

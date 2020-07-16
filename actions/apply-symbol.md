@@ -10,7 +10,7 @@ The action will conditionally apply a symbol \(icon\) for a cell with a measure 
 
 ### Less than 100%
 
-"Less than 100%" algorithm can be used to show icons for values that less than 100% and for values that greater or equal than 100% by setting appropriate icons.
+"Less than 100%" algorithm can be used to show icons for values less than 100% and for values greater or equal to 100% by setting appropriate icons.
 
 ![](../.gitbook/assets/image%20%28152%29.png)
 
