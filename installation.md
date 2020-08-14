@@ -23,7 +23,7 @@ Download the latest version of the extension from [powerkpi.rbcgrp.com](https://
 PowerKPI extension needs to be activated after importing it on Qlik Sense Enterprise Server. See the [**Activation** ](activation/)section of this documentation for more details.
 {% endhint %}
 
-## Qlik Cloud Services \(Business and Enterprise\), Qlik Sense Enterprise on Kubernetes
+## SaaS editions of Qlik Sense \(Qlik Sense Business and Qlik Sense Enterprise SaaS\), Qlik Sense Enterprise on Kubernetes
 
 1. Navigate and login into your qlik cloud tenant.
 2. Open management console by clicking on the avatar in the top right corner of the tenant hub and select the **Administration** menu item**.**
