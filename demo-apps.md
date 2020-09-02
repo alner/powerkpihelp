@@ -2,7 +2,7 @@
 
 The following app is a simple PowerKPI features demo. The demo app contains randomly generated sales data and contains simple examples which demonstrates features of PowerKPI component.
 
-{% file src=".gitbook/assets/powerkpi-presentaion.qvf" caption="PowerKPI features demo app" %}
+{% file src=".gitbook/assets/powerkpi-presentation.qvf" caption="PowerKPI features demo app" %}
 
 The PowerKPI component should be installed to be able to play around with the demo app.
 
