@@ -6,7 +6,7 @@ description: >-
 
 # PowerKPI for Qlik Sense
 
-**PowerKPI for Qlik Sense** by **RBC GROUP** \(see product page [powerkpi.rbcgrp.com](https://powerkpi.rbcgrp.com) for more details\) allows you to visually design responsive and interactive user experience for Qlik Sense: from simple KPI dashboards to interactive detailed list-like or table-like views.
+**PowerKPI for Qlik Sense** by **RBC GROUP** \(see product page [powerkpi.rbcgrp.com](https://powerkpi.rbcgrp.com) for more details\) allows you to visually design responsive and interactive user experience for Qlik Sense: from simple KPI dashboards to interactive detailed list-like, table-like or card-like views.
 
 {% embed url="https://www.youtube.com/watch?v=Ty3GUL3uzag" %}
 
