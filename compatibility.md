@@ -1,6 +1,6 @@
 # Compatibility
 
-PowerKPI trusted extension for Qlik Sense is compatible with the latest **Qlik Sense Enterprise September 2020** release \(including **Qlik Sense on Windows** and **Qlik Sense on Kubernetes**\) as well as **SaaS editions of Qlik Sense** \(**Qlik Sense Bussiness** and **Qlik Sense Enterprise SaaS**\).
+PowerKPI trusted extension for Qlik Sense is compatible with the latest **Qlik Sense Enterprise February 2021** release \(including **Qlik Sense on Windows** and **Qlik Sense on Kubernetes**\) as well as **SaaS editions of Qlik Sense** \(**Qlik Sense Bussiness** and **Qlik Sense Enterprise SaaS**\).
 
 PowerKPI is also compatible with the following Qlik Sense Enterprise releases: 
 
