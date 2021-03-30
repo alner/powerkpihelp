@@ -8,6 +8,8 @@ A URL should contain a schema \(http://, https://\) to be able to open absolute 
 
 Optional “Name” parameter can be used to specify the name of the browsing context \(window, [&lt;iframe&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) or tab\) into which to load the specified resource.
 
+To open url in same window you can specify **\_self** as a value in the "Name" parameter.
+
 {% hint style="info" %}
 See [https://developer.mozilla.org/en-US/docs/Web/API/Window/open](https://developer.mozilla.org/en-US/docs/Web/API/Window/open) for more details.
 {% endhint %}
