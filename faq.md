@@ -20,21 +20,26 @@ The subscription includes **product support** and any **upgrades** and **additio
 
 See:
 
-{% page-ref page="installation.md" %}
+{% content-ref url="installation.md" %}
+[installation.md](installation.md)
+{% endcontent-ref %}
 
 ## How can I trial the PowerKPI on Qlik Sense Enterprise server?
 
 Follow these steps:
 
-{% page-ref page="installation.md" %}
+{% content-ref url="installation.md" %}
+[installation.md](installation.md)
+{% endcontent-ref %}
 
-{% page-ref page="activation/" %}
+{% content-ref url="activation/" %}
+[activation](activation/)
+{% endcontent-ref %}
 
 ## What does support include?
 
-Product support includes management of the support cases and bug-fixing, as well as help in installing the product. Support is available online at [https://support.rbcgrp.com/](https://support.rbcgrp.com/)
+Product support includes management of the support cases and bug-fixing, as well as help in installing the product. Support is available online at [https://support.rbcgrp.com/](https://support.rbcgrp.com)
 
 ## Not found what you are looking for?
 
 Contact us following [https://www.rbcgrp.com/en/contacts/](https://www.rbcgrp.com/en/contacts/) link.
-

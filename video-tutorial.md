@@ -4,15 +4,21 @@
 You should install PowerKPI extension before you get started
 {% endhint %}
 
-{% page-ref page="installation.md" %}
+{% content-ref url="installation.md" %}
+[installation.md](installation.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 Download the "Starting point app" to move along with the tutorial. The "Final App" is also available to download. See links bellow
 {% endhint %}
 
-{% file src=".gitbook/assets/powerkpi-tutroial-starting-app.qvf" caption="The starting point app" %}
+{% file src=".gitbook/assets/PowerKPI tutroial starting app.qvf" %}
+The starting point app
+{% endfile %}
 
-{% file src=".gitbook/assets/powerkpi-tutorial-app.qvf" caption="The final App" %}
+{% file src=".gitbook/assets/PowerKPI tutorial app.qvf" %}
+The final App
+{% endfile %}
 
 {% embed url="https://youtu.be/BZJLoFpfviE" %}
 
@@ -24,9 +30,7 @@ Download the "Starting point app" to move along with the tutorial. The "Final Ap
 
 {% embed url="https://youtu.be/WON24kaob5M" %}
 
-{% embed url="https://youtu.be/nEyM6X\_fRLE" %}
+{% embed url="https://youtu.be/nEyM6X_fRLE" %}
 
 {% embed url="https://youtu.be/xKFRROKTdGQ" %}
-
-
 

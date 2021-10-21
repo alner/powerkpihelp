@@ -6,9 +6,8 @@ PowerKPI properties panel has the following sections:
 * Data
 * Sorting
 * Add-ons
-*  Appearance
-*  Visualizations
+*  Appearance
+*  Visualizations
 * About
 
-![](../.gitbook/assets/image%20%2822%29.png)
-
+![](<../.gitbook/assets/image (17).png>)

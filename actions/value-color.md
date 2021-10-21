@@ -6,25 +6,25 @@ The action will set the font color, background color or border color by using th
 This action can be applied on a cell linked with the dimension or measure
 {% endhint %}
 
-Choose "Font color", "Background color", "Line" or "Symbol" to apply selected algorithm on particular property. Font or background color can be set for particular cell with the help of the action.  In case of the "Line" property a border color will be set  with the help of the action \(if the borders were applied on the cell\). The icon color can be set by selecting "Symbol" value.
+Choose "Font color", "Background color", "Line" or "Symbol" to apply selected algorithm on particular property. Font or background color can be set for particular cell with the help of the action.  In case of the "Line" property a border color will be set  with the help of the action (if the borders were applied on the cell). The icon color can be set by selecting "Symbol" value.
 
-### 
+###
 
 ### Positive/Negative
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](<../.gitbook/assets/image (144).png>)
 
-Choose colors for “Positive” and “Negative” parameters by clicking the corresponding button ![](../.gitbook/assets/image%20%2869%29.png) or  ![](../.gitbook/assets/image%20%2815%29.png)
+Choose colors for “Positive” and “Negative” parameters by clicking the corresponding button ![](<../.gitbook/assets/image (148).png>) or  ![](<../.gitbook/assets/image (147).png>)
 
 All positive and negative values will be colored in the selected colors.
 
-###  
+### &#xD;&#x20;
 
 ### **Less than 100%**
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](<../.gitbook/assets/image (146).png>)
 
-Choose colors for “Less than 100%” and “otherwise” parameters by clicking the corresponding button ![](../.gitbook/assets/image%20%2869%29.png) or  ![](../.gitbook/assets/image%20%2815%29.png)
+Choose colors for “Less than 100%” and “otherwise” parameters by clicking the corresponding button ![](<../.gitbook/assets/image (148).png>) or  ![](<../.gitbook/assets/image (147).png>)
 
 The color will be applied on a cell with a measure depending on the measure value: if it is less,  greater or equal to 1.
 
@@ -32,7 +32,7 @@ The color will be applied on a cell with a measure depending on the measure valu
 
 ### Heatmap
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](<../.gitbook/assets/image (149).png>)
 
 Applies one of the predefined heatmap color schemes.
 
@@ -41,4 +41,3 @@ With the help of “Custom” option you will be able to change "Min", "Average"
 ### Text color expression
 
 This option allows to set a "Font color", "Background color", "Line" or "Symbol" color by using the "Text color expression" for a measure. It has no parameters.
-

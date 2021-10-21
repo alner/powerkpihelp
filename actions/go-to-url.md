@@ -2,11 +2,11 @@
 
 The action will navigate a user to a given URL.
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](<../.gitbook/assets/image (123).png>)
 
-A URL should contain a schema \(http://, https://\) to be able to open absolute URLs. If the schema isn’t specified, it will try to open a relative path.
+A URL should contain a schema (http://, https://) to be able to open absolute URLs. If the schema isn’t specified, it will try to open a relative path.
 
-Optional “Name” parameter can be used to specify the name of the browsing context \(window, [&lt;iframe&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) or tab\) into which to load the specified resource.
+Optional “Name” parameter can be used to specify the name of the browsing context (window, [\<iframe>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) or tab) into which to load the specified resource.
 
 To open url in the same window you can specify **\_self** as a value in the "Name" parameter.
 
@@ -15,4 +15,3 @@ To open url in the same window you can specify **\_self** as a value in the "Nam
 {% endhint %}
 
 Qlik expressions can be used in both parameters by prefixing each of them with an equals sign.
-

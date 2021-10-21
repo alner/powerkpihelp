@@ -7,4 +7,3 @@ The action can be applied on a cell with a dimension or a measure label only. Th
 {% endhint %}
 
 There are no parameters available.
-

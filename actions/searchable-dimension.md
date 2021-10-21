@@ -1,6 +1,6 @@
 # Searchable dimension
 
-The action will allow users to interactively search and make selections of the data in the specified dimension using  ![](../.gitbook/assets/image%20%28151%29%20%281%29.png) special button displayed along with the dimension label.
+The action will allow users to interactively search and make selections of the data in the specified dimension using  ![](<../.gitbook/assets/image (151).png>) special button displayed along with the dimension label.
 
 {% hint style="info" %}
 The action can be applied on a cell with a dimension label only. The action is applied automatically when the dimension label is dragged onto a cell
@@ -8,5 +8,4 @@ The action can be applied on a cell with a dimension label only. The action is a
 
 There are no parameters available.
 
-![](../.gitbook/assets/2019-04-03_11-24-11.gif)
-
+![](../.gitbook/assets/2019-04-03\_11-24-11.gif)

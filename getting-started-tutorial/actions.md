@@ -4,27 +4,25 @@ But remember what the reason to build “Details” visualization was. We have a
 
 PowerKPI component has a predefined set of actions which can be applied to any cell of our template. One of such actions is “Activate view” action. You can apply it on a cell with KPI.
 
-Open “KPIs” template in the edit mode by clicking ![](../.gitbook/assets/image%20%2812%29.png)button in the top left corner. Open “Actions” panel by clicking "Actions" ![](../.gitbook/assets/image%20%28115%29.png) toolbar button \(or use "Ctrl + Shift + A" keyboard shortcut to do the same\). 
+Open “KPIs” template in the edit mode by clicking ![](<../.gitbook/assets/image (11).png>)button in the top left corner. Open “Actions” panel by clicking "Actions" ![](<../.gitbook/assets/image (12).png>) toolbar button (or use "Ctrl + Shift + A" keyboard shortcut to do the same).&#x20;
 
-Select the appropriate cell \(with KPI1, for example\).
+Select the appropriate cell (with KPI1, for example).
 
-![](../.gitbook/assets/tutorial34.png)
+![](../.gitbook/assets/Tutorial34.png)
 
 Click “+ Add” button on “Actions” panel. The “Activate view” action will be the first item in the list. Click it.
 
-![](../.gitbook/assets/tutorial35.png)
+![](../.gitbook/assets/Tutorial35.png)
 
 It will open “Actions” parameters panel. In our particular case there is only one parameter – “Linked visualization”, which will be opened when user clicks on the KPI.
 
 If you click on the icon below “Linked visualization” title, you will get a list with available visualizations. In our case it should be only one - “Details”.
 
-![](../.gitbook/assets/tutorial36.png)
+![](../.gitbook/assets/Tutorial36.png)
 
-Select it and click “Apply” button. “Activate view” item will be shown on the “Actions” panel and a special icon ![](../.gitbook/assets/image%20%2841%29.png) will be shown in the top left corner of the selected cell.
+Select it and click “Apply” button. “Activate view” item will be shown on the “Actions” panel and a special icon ![](<../.gitbook/assets/image (13).png>) will be shown in the top left corner of the selected cell.
 
-![](../.gitbook/assets/tutorial37.png)
+![](../.gitbook/assets/Tutorial37.png)
 
-Save all changes clicking "Save" ![](../.gitbook/assets/image%20%2816%29.png) button.
-
-
+Save all changes clicking "Save" ![](<../.gitbook/assets/image (14).png>) button.
 
