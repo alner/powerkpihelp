@@ -50,7 +50,7 @@ Data configuration made using dimensions and measures doesn’t differ from maki
 
 ![Alternative dimensions and measures](.gitbook/assets/Features9.png)
 
-Apart from all standard configuration capabilities, like sorting and add-ons, there is a possibility to add an **unlimited number of visualizations templates and hypercubes** with their own sets of dimensions and measures** **in one component in order to be able to make not only dimensions drills, but also to make “drill into kpi” feature.
+Apart from all standard configuration capabilities, like sorting and add-ons, there is a possibility to add an **unlimited number of visualizations templates and hypercubes** with their own sets of dimensions and measures **** in one component in order to be able to make not only dimensions drills, but also to make “drill into kpi” feature.
 
 {% content-ref url="properties/hypercubes.md" %}
 [hypercubes.md](properties/hypercubes.md)

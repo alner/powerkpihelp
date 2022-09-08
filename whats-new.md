@@ -1,5 +1,21 @@
 # What's new
 
+### August 2022
+
+**Chart Level Scripting** support. It is a Qlik Sense feature available in **Qlik Cloud** and in **Qlik Sense Client Managed** version starting from **August 2022**.
+
+Quote from Qlik documentation:
+
+> **With chart level scripting, you can add script-like functionality to the results of a visualization. It complements chart expressions, as chart level scripting include control statements, such as loops and recursive actions, for more complex mathematical calculations. You can also modify multiple columns, as long as a placeholder exists in the chart, and add new rows to a result.**
+
+Chart level scripting must be enabled in the app before you can add a chart script to a visualization.
+
+See more at [help.qlik.com](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense\_Hub/ChartLevelScripting/chart-level-scripting.htm)
+
+<figure><img src=".gitbook/assets/ChartLevelScript1.png" alt=""><figcaption><p>Scripts section</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/ChartLevelScript2.png" alt=""><figcaption></figcaption></figure>
+
 ### September 2020
 
 * **Resizing of columns and rows** has been added to be able to design more sophisticated visualization templates.
@@ -14,7 +30,7 @@ It is also possible to change width/height of a column/row using the resize dial
 
 ![](.gitbook/assets/Base64.gif)
 
-* **Embedding master visualizations** can be done with toolbar button or context menu for a selected cell, which also allows to **change the interactions and selections options** for the master object, or **delete **the** embedded master object**.
+* **Embedding master visualizations** can be done with toolbar button or context menu for a selected cell, which also allows to **change the interactions and selections options** for the master object, or **delete** the **embedded master object**.
 
 ![](.gitbook/assets/MasterObject.gif)
 
@@ -24,7 +40,7 @@ It is also possible to change width/height of a column/row using the resize dial
 
 ![](.gitbook/assets/DeleteCells.gif)
 
-* **Font tags **allow to apply the **same font size** on various PowerKPI objects if they have same size on a sheet.
+* **Font tags** allow to apply the **same font size** on various PowerKPI objects if they have same size on a sheet.
 
 ![](.gitbook/assets/FontTags.gif)
 
@@ -43,8 +59,8 @@ It is also possible to change width/height of a column/row using the resize dial
 ### April, June 2020
 
 * **Qlik Sense June 2020 accreditation on Trusted Extension Developer program.**
-* **Qlik Cloud Services (Business and Enterprise) **and** Qlik Sense Enterprise on Kubernetes support. **See installation instructions [here](https://help.rbcgrp.com/installation#how-to-install-extension-on-qlik-cloud-services-business-and-enterprise).
-* **Preview in the Qlik Sense Edit mode** works now in the same way as component visualize data in the Analysis mode.  To open up the PowerKPI editor a developer should click on a button ![](<.gitbook/assets/image (152).png>) in the top left corner of the component or, as another option, open Visualizations sections on the property panel and then expand an appropriate  visualization and click on the "Edit template" button. The editor will be loaded and shown instead of a visualization.
+* **Qlik Cloud Services (Business and Enterprise)** and **Qlik Sense Enterprise on Kubernetes support.** See installation instructions [here](https://help.rbcgrp.com/installation#how-to-install-extension-on-qlik-cloud-services-business-and-enterprise).
+* **Preview in the Qlik Sense Edit mode** works now in the same way as component visualize data in the Analysis mode.  To open up the PowerKPI editor a developer should click on a button <img src=".gitbook/assets/image (152).png" alt="" data-size="original"> in the top left corner of the component or, as another option, open Visualizations sections on the property panel and then expand an appropriate  visualization and click on the "Edit template" button. The editor will be loaded and shown instead of a visualization.
 
 ![](.gitbook/assets/NewEditMode.gif)
 
@@ -60,23 +76,23 @@ It is also possible to change width/height of a column/row using the resize dial
 
 ![](.gitbook/assets/QuickAddCellsButtons.gif)
 
-* **Native or Virtual scrolling mode for tables. **Native mode uses native pageable scroll in which the  "Load more" or "Load previous" buttons can be used to load the next or previous page of the data, while virtual scrolling mode allows to scroll the entire dataset.
+* **Native or Virtual scrolling mode for tables.** Native mode uses native pageable scroll in which the  "Load more" or "Load previous" buttons can be used to load the next or previous page of the data, while virtual scrolling mode allows to scroll the entire dataset.
 
 ![](.gitbook/assets/Scrolling.gif)
 
-* **"Fit height" quick button. **It allows to set mode  in which it will shrink or stretch a visualization to fit the occupied by the component area.
+* **"Fit height" quick button.** It allows to set mode  in which it will shrink or stretch a visualization to fit the occupied by the component area.
 
 ![](.gitbook/assets/FitHeight.gif)
 
-* **Dimensions and measures popup menu. **Double click on a cell or use **Ctrl + Space** (**⌘ + Space**)  to open up the dimensions and measures popup menu.
+* **Dimensions and measures popup menu.** Double click on a cell or use **Ctrl + Space** (**⌘ + Space**)  to open up the dimensions and measures popup menu.
 
 ![](.gitbook/assets/DimsMeasuresPopup.gif)
 
-* **Apply styles action **allows to conditionally apply styles on a cell. See the action description [here](actions/apply-styles.md).
+* **Apply styles action** allows to conditionally apply styles on a cell. See the action description [here](actions/apply-styles.md).
 
 ![](.gitbook/assets/ApplyStylesAction.png)
 
-* **Apply symbol action **allows conditionally add an icon to a measure. See the action description [here](actions/apply-symbol.md).
+* **Apply symbol action** allows conditionally add an icon to a measure. See the action description [here](actions/apply-symbol.md).
 
 ![](.gitbook/assets/ApplySymbolAction.png)
 
@@ -94,7 +110,7 @@ Hold **Shift** and use **arrows** to select cells;
 
 **Ctrl + Alt + V** (**⌘ + Alt + V**) - paste copied cell content;
 
-**Ctrl + Space **(**⌘ + Space**) - open up the dimensions and measures popup menu.
+**Ctrl + Space** (**⌘ + Space**) - open up the dimensions and measures popup menu.
 
 See full editor keyboard shortcuts list [here](visual-editor/visual-editor-keyboard-shortcuts.md).
 

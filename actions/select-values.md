@@ -4,7 +4,7 @@ The action will select specific values in a field.
 
 ![](<../.gitbook/assets/image (126).png>)
 
-A Field can be entered manually or selected by clicking the ![](<../.gitbook/assets/image (127).png>)button.
+A Field can be entered manually or selected by clicking the <img src="../.gitbook/assets/image (127).png" alt="" data-size="original">button.
 
 The “Value” parameter can contain a single value or several values separated by a semicolon.
 

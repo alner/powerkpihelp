@@ -22,7 +22,7 @@ See Qlik Sense documentation for more details.
 [https://help.qlik.com/en-US/sense/Subsystems/Hub/Content/Sense\_Hub/Colors/assigning-colors-to-master-items.htm](https://help.qlik.com/en-US/sense/Subsystems/Hub/Content/Sense\_Hub/Colors/assigning-colors-to-master-items.htm)
 {% endhint %}
 
-"Delete" ![](<../.gitbook/assets/image (32).png>) button of each item can be used to delete the particular visualization.
+"Delete" <img src="../.gitbook/assets/image (32).png" alt="" data-size="original"> button of each item can be used to delete the particular visualization.
 
 {% content-ref url="../visual-editor/" %}
 [visual-editor](../visual-editor/)

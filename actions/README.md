@@ -13,8 +13,8 @@
 * “**Sort**” action allows you to apply or remove interactive sorting capability for each column separately (in case of table representations);
 * “**Alternative dimensions/measures**” action allows you to apply or remove interactive dimensions and measures buttons separately for each data column labels;
 * “**Searchable dimension**” action allows you to apply or remove search functionality for each individual dimension column;
-* **"Show dialog" **allows you to use a custom popup dialog with a content formatted using HTML and embedding master visualizations support;
-* **"Show tooltip" **allows you to create custom tooltips with possibility to use HTML.
+* **"Show dialog"** allows you to use a custom popup dialog with a content formatted using HTML and embedding master visualizations support;
+* **"Show tooltip"** allows you to create custom tooltips with possibility to use HTML.
 
 {% hint style="info" %}
 See the detailed description of the actions in the following sections.
@@ -22,20 +22,20 @@ See the detailed description of the actions in the following sections.
 
 You can apply the set of actions to any cell or cells to make the visualization more interactive and functional.
 
-Click ![](<../.gitbook/assets/image (66).png>)toolbar  button to **open actions panel **and **apply actions** on the selected cell.
+Click <img src="../.gitbook/assets/image (66).png" alt="" data-size="original">toolbar  button to **open actions panel** and **apply actions** on the selected cell.
 
 ![](../.gitbook/assets/2019-04-02\_15-40-33.gif)
 
-To add an action, click ![](<../.gitbook/assets/image (113).png>)button on "Actions" panel. You may apply as many actions as you want on any cell.
+To add an action, click <img src="../.gitbook/assets/image (113).png" alt="" data-size="original">button on "Actions" panel. You may apply as many actions as you want on any cell.
 
 {% hint style="info" %}
 Some actions are applicable on a cell with a bonded dimension, some - with a measure, and there are actions which can be applied on any cell.
 {% endhint %}
 
-Cells with the applied actions will have ![](<../.gitbook/assets/image (112).png>)special icon in the top left corner when “Actions” panel will be shown.
+Cells with the applied actions will have <img src="../.gitbook/assets/image (112).png" alt="" data-size="original">special icon in the top left corner when “Actions” panel will be shown.
 
-You can drag an action to change the execution order. Put the cursor on the ![](<../.gitbook/assets/image (124).png>) drag bars and drag the action to rearrange the execution order.
+You can drag an action to change the execution order. Put the cursor on the <img src="../.gitbook/assets/image (124).png" alt="" data-size="original"> drag bars and drag the action to rearrange the execution order.
 
 ![](../.gitbook/assets/2019-04-02\_17-34-28.gif)
 
-To remove an action from the applied actions list, click ![](<../.gitbook/assets/image (125).png>).
+To remove an action from the applied actions list, click <img src="../.gitbook/assets/image (125).png" alt="" data-size="original">.

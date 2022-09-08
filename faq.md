@@ -38,7 +38,7 @@ Follow these steps:
 
 ## What does support include?
 
-Product support includes management of the support cases and bug-fixing, as well as help in installing the product. Support is available online at [https://support.rbcgrp.com/](https://support.rbcgrp.com)
+Product support includes management of the support cases and bug-fixing, as well as help in installing the product. Support is available online at [https://support.rbcgrp.com/](https://support.rbcgrp.com/)
 
 ## Not found what you are looking for?
 

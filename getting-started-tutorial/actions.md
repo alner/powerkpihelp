@@ -4,7 +4,7 @@ But remember what the reason to build “Details” visualization was. We have a
 
 PowerKPI component has a predefined set of actions which can be applied to any cell of our template. One of such actions is “Activate view” action. You can apply it on a cell with KPI.
 
-Open “KPIs” template in the edit mode by clicking ![](<../.gitbook/assets/image (11).png>)button in the top left corner. Open “Actions” panel by clicking "Actions" ![](<../.gitbook/assets/image (12).png>) toolbar button (or use "Ctrl + Shift + A" keyboard shortcut to do the same).&#x20;
+Open “KPIs” template in the edit mode by clicking <img src="../.gitbook/assets/image (11).png" alt="" data-size="original">button in the top left corner. Open “Actions” panel by clicking "Actions" <img src="../.gitbook/assets/image (12).png" alt="" data-size="original"> toolbar button (or use "Ctrl + Shift + A" keyboard shortcut to do the same).&#x20;
 
 Select the appropriate cell (with KPI1, for example).
 
@@ -20,9 +20,9 @@ If you click on the icon below “Linked visualization” title, you will get a 
 
 ![](../.gitbook/assets/Tutorial36.png)
 
-Select it and click “Apply” button. “Activate view” item will be shown on the “Actions” panel and a special icon ![](<../.gitbook/assets/image (13).png>) will be shown in the top left corner of the selected cell.
+Select it and click “Apply” button. “Activate view” item will be shown on the “Actions” panel and a special icon <img src="../.gitbook/assets/image (13).png" alt="" data-size="original"> will be shown in the top left corner of the selected cell.
 
 ![](../.gitbook/assets/Tutorial37.png)
 
-Save all changes clicking "Save" ![](<../.gitbook/assets/image (14).png>) button.
+Save all changes clicking "Save" <img src="../.gitbook/assets/image (14).png" alt="" data-size="original"> button.
 

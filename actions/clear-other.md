@@ -4,7 +4,7 @@ The action will clear all fields except the selected one.
 
 ![](<../.gitbook/assets/image (135).png>)
 
-A Field can be entered manually or selected by clicking the ![](<../.gitbook/assets/image (127).png>) button.
+A Field can be entered manually or selected by clicking the <img src="../.gitbook/assets/image (127).png" alt="" data-size="original"> button.
 
 The “Soft lock” parameter will allow you to override the locked selections.
 

@@ -22,7 +22,7 @@ Histogram is the graphical way of representing KPIs.
 
 It is possible to set the minimum, average and maximum values and set the corresponding colors. By default, those parameters are initialized based on the corresponding measure values.
 
-The "**Offset**" parameter is optional and can be used to apply offset on a bar based on the selected measure. To open list of available measures and be able to select a measure, click ![](../.gitbook/assets/fx.png) button.
+The "**Offset**" parameter is optional and can be used to apply offset on a bar based on the selected measure. To open list of available measures and be able to select a measure, click <img src="../.gitbook/assets/fx.png" alt="" data-size="original"> button.
 
 ![](../.gitbook/assets/2019-04-24\_15-19-18.gif)
 

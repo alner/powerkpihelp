@@ -34,7 +34,7 @@ In data preview mode hit “**New**” button or open “Visualizations” secti
 
 ![](../.gitbook/assets/Tutorial5.png)
 
-A visualization template consists of cells which can be added, merged, removed in the same manner as you would do it in a spreadsheet-like editor. To start adding columns and/or rows, click “Add “Rows” ![](../.gitbook/assets/AddRowButton.png)  and/or “Add columns” ![](../.gitbook/assets/AddColumnButton.png) toolbar button.
+A visualization template consists of cells which can be added, merged, removed in the same manner as you would do it in a spreadsheet-like editor. To start adding columns and/or rows, click “Add “Rows” <img src="../.gitbook/assets/AddRowButton.png" alt="" data-size="original">  and/or “Add columns” <img src="../.gitbook/assets/AddColumnButton.png" alt="" data-size="original"> toolbar button.
 
 {% hint style="info" %}
 To insert a row, use "Shift + Insert" keyboard shortcut. To insert a column, use "Ctrl + Shift + Insert" keyboard shortcut
@@ -44,7 +44,7 @@ To merge cells, you should select cells from top left corner to bottom right cor
 
 ![](../.gitbook/assets/Tutorial6.png)
 
-After selecting cells, you can merge them by clicking "Merge"![](../.gitbook/assets/image.png) toolbar button.
+After selecting cells, you can merge them by clicking "Merge"<img src="../.gitbook/assets/image.png" alt="" data-size="original"> toolbar button.
 
 {% hint style="info" %}
 To merge selected cells, use "Ctrl + M" keyboard shortcut&#x20;
@@ -52,17 +52,17 @@ To merge selected cells, use "Ctrl + M" keyboard shortcut&#x20;
 
 ![](../.gitbook/assets/Tutroial7.png)
 
-To split merged cells, select a cell and click "Split" ![](<../.gitbook/assets/image (1).png>) toolbar button.
+To split merged cells, select a cell and click "Split" <img src="../.gitbook/assets/image (1).png" alt="" data-size="original"> toolbar button.
 
 {% hint style="info" %}
 To split merged cells, use "Ctrl + Alt + M" keyboard shortcut&#x20;
 {% endhint %}
 
-To remove a row or a column, you should select the entire row/column and hit "Delete" ![](<../.gitbook/assets/image (2).png>) toolbar button.
+To remove a row or a column, you should select the entire row/column and hit "Delete" <img src="../.gitbook/assets/image (2).png" alt="" data-size="original"> toolbar button.
 
 In such a way, by adding columns and rows, merging them, you will design your visualization template (which can be improved later) and will be ready to bind measures with the visualization.
 
-To start binding dimensions and measures, click "Dimensions/Measures" ![](<../.gitbook/assets/image (3).png>) toolbar button. Data panel with configured dimensions and measures will be opened along with the visualization template.
+To start binding dimensions and measures, click "Dimensions/Measures" <img src="../.gitbook/assets/image (3).png" alt="" data-size="original"> toolbar button. Data panel with configured dimensions and measures will be opened along with the visualization template.
 
 ![](../.gitbook/assets/Tutorial8.png)
 

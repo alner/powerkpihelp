@@ -126,10 +126,10 @@ Using “Position” parameter, you might position an image in accordance with y
 Master items
 {% endhint %}
 
-To embed a master visualization in a cell click on a toolbar button  ![](../.gitbook/assets/MasterItemsToolbar.png) and select a master visualization in the popup menu.&#x20;
+To embed a master visualization in a cell click on a toolbar button  <img src="../.gitbook/assets/MasterItemsToolbar.png" alt="" data-size="line"> and select a master visualization in the popup menu.&#x20;
 
 ![](../.gitbook/assets/MasterObject.gif)
 
-It also possible to use the context menu for the selected cell (select a cell and click on the right mouse key), which allows to change the interaction and selection options for the master object, or delete** **the** **embedded master object.
+It also possible to use the context menu for the selected cell (select a cell and click on the right mouse key), which allows to change the interaction and selection options for the master object, or delete **** the **** embedded master object.
 
 ![](../.gitbook/assets/MasterItemsInContextMenu.png)

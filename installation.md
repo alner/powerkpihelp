@@ -26,7 +26,7 @@ PowerKPI extension needs to be activated after importing it on Qlik Sense Enterp
 ## SaaS editions of Qlik Sense (Qlik Sense Business and Qlik Sense Enterprise SaaS), Qlik Sense Enterprise on Kubernetes
 
 1. Navigate and login into your qlik cloud tenant.
-2. Open management console by clicking on the avatar in the top right corner of the tenant hub and select the **Administration **menu item**.**
+2. Open management console by clicking on the avatar in the top right corner of the tenant hub and select the **Administration** menu item**.**
 
 ![](.gitbook/assets/QlikCloudMenu.png)
 

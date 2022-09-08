@@ -14,7 +14,7 @@ Choose "Font color", "Background color", "Line" or "Symbol" to apply selected al
 
 ![](<../.gitbook/assets/image (144).png>)
 
-Choose colors for “Positive” and “Negative” parameters by clicking the corresponding button ![](<../.gitbook/assets/image (148).png>) or  ![](<../.gitbook/assets/image (147).png>)
+Choose colors for “Positive” and “Negative” parameters by clicking the corresponding button <img src="../.gitbook/assets/image (148).png" alt="" data-size="original"> or  <img src="../.gitbook/assets/image (147).png" alt="" data-size="original">
 
 All positive and negative values will be colored in the selected colors.
 
@@ -24,7 +24,7 @@ All positive and negative values will be colored in the selected colors.
 
 ![](<../.gitbook/assets/image (146).png>)
 
-Choose colors for “Less than 100%” and “otherwise” parameters by clicking the corresponding button ![](<../.gitbook/assets/image (148).png>) or  ![](<../.gitbook/assets/image (147).png>)
+Choose colors for “Less than 100%” and “otherwise” parameters by clicking the corresponding button <img src="../.gitbook/assets/image (148).png" alt="" data-size="original"> or  <img src="../.gitbook/assets/image (147).png" alt="" data-size="original">
 
 The color will be applied on a cell with a measure depending on the measure value: if it is less,  greater or equal to 1.
 

@@ -24,4 +24,4 @@ After binding the measure with a cell (in our case the "± SALES %" measure) it 
 
 ![](../.gitbook/assets/ApplySymbolExpression.gif)
 
-You can add as many mapping items as needed by clicking the button![](<../.gitbook/assets/Снимок экрана 2020-07-13 в 15.58.02.png>) next to the "Edit mappings" label. For each added row you need to specify a value (by entering it in the input text field) and an icon (by selecting it from the icon popup menu).
+You can add as many mapping items as needed by clicking the button<img src="../.gitbook/assets/Снимок экрана 2020-07-13 в 15.58.02.png" alt="" data-size="original"> next to the "Edit mappings" label. For each added row you need to specify a value (by entering it in the input text field) and an icon (by selecting it from the icon popup menu).

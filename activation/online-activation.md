@@ -7,7 +7,7 @@ The following steps should be taken to activate the extension:
 **2.** **Open “About” section on the properties panel.**
 
 {% hint style="info" %}
-The properties panel is available on the right-hand side when you are editing a visualization or a sheet. If it is hidden, click ![](../.gitbook/assets/ShowProperties.png) in the lower right-hand corner.
+The properties panel is available on the right-hand side when you are editing a visualization or a sheet. If it is hidden, click <img src="../.gitbook/assets/ShowProperties.png" alt="" data-size="original"> in the lower right-hand corner.
 {% endhint %}
 
 !["About" section of the properties panel in Qlik Sense ](../.gitbook/assets/OnlineActivation1.png)
@@ -41,6 +41,6 @@ After the successful activation you will get the message “Congratulations! Pow
 ![PowerKPI has been successfully activated](../.gitbook/assets/OnlineActivation5.png)
 
 {% hint style="info" %}
-If you have any questions regarding the activation process, feel free to contact us at [https://support.rbcgrp.com/](https://support.rbcgrp.com)
+If you have any questions regarding the activation process, feel free to contact us at [https://support.rbcgrp.com/](https://support.rbcgrp.com/)
 {% endhint %}
 

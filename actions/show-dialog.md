@@ -24,7 +24,7 @@ There is a **special macro** wich can be used **to embedd a master visualization
 $object_id{<css styles>}
 ```
 
-&#x20;**object\_id **- is an Object ID. You can get it by using the "Embed chart" context menu or hidden "Developer" menu. As an alternative option, you can use "Single configurator" tool from Qlik Sense Dev Hub. See [Single configurator](https://help.qlik.com/en-US/sense-developer/Subsystems/Dev-Hub/Content/Sense\_Dev-Hub/SingleConfigurator/dev-hub-single-configurator.htm) help for more details.
+&#x20;**object\_id** - is an Object ID. You can get it by using the "Embed chart" context menu or hidden "Developer" menu. As an alternative option, you can use "Single configurator" tool from Qlik Sense Dev Hub. See [Single configurator](https://help.qlik.com/en-US/sense-developer/Subsystems/Dev-Hub/Content/Sense\_Dev-Hub/SingleConfigurator/dev-hub-single-configurator.htm) help for more details.
 
 {% hint style="info" %}
 See video below how to use hidden menu for developers.

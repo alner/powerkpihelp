@@ -36,7 +36,7 @@ Editor context menu can be used to increase a developer productivity. Toolbar pa
 
 To preview visualization, click “Preview” tab at the top of the toolbar.&#x20;
 
-To open up the PowerKPI editor a developer should click on a button ![](<../.gitbook/assets/image (152).png>) in the top left corner of the component or, as another option, open Visualizations sections on the property panel and then expand an appropriate  visualization and click on the "Edit template" button.
+To open up the PowerKPI editor a developer should click on a button <img src="../.gitbook/assets/image (152).png" alt="" data-size="original"> in the top left corner of the component or, as another option, open Visualizations sections on the property panel and then expand an appropriate  visualization and click on the "Edit template" button.
 
 ![](../.gitbook/assets/NewEditMode.gif)
 
@@ -50,7 +50,7 @@ In the top left corner of the toolbar panel there is a button which allows a qui
 
 
 
-Button ![](../.gitbook/assets/MenuButton.png) on the toolbar panel of the editor allows you to open up a menu, which allows copying, exporting and importing designed templates as well as opening template properties panel ("Show properties" menu item).&#x20;
+Button <img src="../.gitbook/assets/MenuButton.png" alt="" data-size="original"> on the toolbar panel of the editor allows you to open up a menu, which allows copying, exporting and importing designed templates as well as opening template properties panel ("Show properties" menu item).&#x20;
 
 ![](../.gitbook/assets/TemplateMenu.png)
 
@@ -62,13 +62,13 @@ A developer can use "Export" button to export developed template into a file, an
 
 Properties panel allows to apply “Fit to height” parameter, which will shrink or stretch a visualization to fit the occupied by the component area. It is recommended to set this option on visualization templates without dimensions only.
 
-"Scrolling" option allows to choose between Native or Virtual scrolling mode for tables**. **Native mode is used** **when "Scrolling" option is set.** **Native mode uses native pageable scroll in which the  "Load more" or "Load previous" buttons can be used to load the next or previous page of the data, while virtual scrolling mode allows to scroll the entire dataset.
+"Scrolling" option allows to choose between Native or Virtual scrolling mode for tables**.** Native mode is used **** when "Scrolling" option is set. **** Native mode uses native pageable scroll in which the  "Load more" or "Load previous" buttons can be used to load the next or previous page of the data, while virtual scrolling mode allows to scroll the entire dataset.
 
 “Background image” allows adding an image as a background for templates.&#x20;
 
 “Thumbnail” allows setting a thumbnail for templates.
 
-"Fit to height" mode can also be applied with the help of a quick button in the visual editor (see image below).** **
+"Fit to height" mode can also be applied with the help of a quick button in the visual editor (see image below). ****&#x20;
 
 ![](../.gitbook/assets/FitHeight.gif)
 
