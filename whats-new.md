@@ -8,7 +8,7 @@ Quote from Qlik documentation:
 
 > **With chart level scripting, you can add script-like functionality to the results of a visualization. It complements chart expressions, as chart level scripting include control statements, such as loops and recursive actions, for more complex mathematical calculations. You can also modify multiple columns, as long as a placeholder exists in the chart, and add new rows to a result.**
 
-Chart level scripting must be enabled in the app before you can add a chart script to a visualization.
+**Chart level scripting must be enabled in the app** before you can add a chart script to a visualization.
 
 See more at [help.qlik.com](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense\_Hub/ChartLevelScripting/chart-level-scripting.htm)
 
