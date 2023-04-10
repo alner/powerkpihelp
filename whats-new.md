@@ -1,6 +1,73 @@
 # What's new
 
-### August 2022
+### <mark style="color:green;">February 2023</mark>
+
+### Object level actions.&#x20;
+
+Added support for object-level actions ("General" tab) in addition to cell-level actions ("Cells" tab). When the user clicks on a visualization, the object-level action fires first, followed by the cell-level actions.
+
+<figure><img src=".gitbook/assets/ObjectLevelAction.png" alt=""><figcaption></figcaption></figure>
+
+### **Show sidebar** action.
+
+<figure><img src=".gitbook/assets/ShowSidebar.gif" alt=""><figcaption></figcaption></figure>
+
+It supports HTML as well as embedding master visualizations by using the following syntax:
+
+```
+$object_id{css styles}
+```
+
+&#x20;**object\_id** - identifier of the master visualization object.&#x20;
+
+**css styles** - the CSS styles to apply to the embedded object.
+
+Example:
+
+```
+$9bc03224-f072-439f-b0de-3014860d4f8a{width:100%;height: 40px}
+```
+
+See more details [here](actions/show-sidebar.md).
+
+<figure><img src=".gitbook/assets/ShowSidebarAction.png" alt=""><figcaption></figcaption></figure>
+
+### **Show popover** action.
+
+It supports HTML as well as embedding master visualizations. See more details [here](actions/show-popover.md).
+
+<figure><img src=".gitbook/assets/ShowPopover.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/ShowPopoverAction.png" alt=""><figcaption></figcaption></figure>
+
+### **Tooltip** measure's attribute expression to simplify adding Tooltips.&#x20;
+
+<figure><img src=".gitbook/assets/ShowTooltipInAction.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/TooltipExpression.png" alt=""><figcaption></figcaption></figure>
+
+### "CSS classes" parameter to support custom themes.
+
+With custom themes developers can style Power KPI visualizations by applying custom classes defined in a theme.
+
+```css
+.qv-object-powerkpi .powerkpi-theme {
+  background: linear-gradient(#f2f2f2, white) !important;
+  border: solid 1px #f2f2f2;
+  border-radius: 5px;
+}
+
+.qv-object-powerkpi .powerkpi-theme:hover  {
+  background: linear-gradient(#CFF0F8, white) !important;
+  border: solid 1px #3b93bd;
+}
+```
+
+<figure><img src=".gitbook/assets/CssClasses.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/CssClasses.png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:green;">August 2022</mark>
 
 **Chart Level Scripting** support. It is a Qlik Sense feature available in **Qlik Cloud** and in **Qlik Sense Client Managed** version starting from **August 2022**.
 
@@ -16,7 +83,7 @@ See more at [help.qlik.com](https://help.qlik.com/en-US/cloud-services/Subsystem
 
 <figure><img src=".gitbook/assets/ChartLevelScript2.png" alt=""><figcaption></figcaption></figure>
 
-### September 2020
+### <mark style="color:green;">September 2020</mark>
 
 * **Resizing of columns and rows** has been added to be able to design more sophisticated visualization templates.
 
@@ -56,7 +123,7 @@ It is also possible to change width/height of a column/row using the resize dial
   * the Value color action has been extended with the "Text color expression" option.&#x20;
   * Shift + click on a color picker apply a color without opening the color dialog.
 
-### April, June 2020
+### <mark style="color:green;">April, June 2020</mark>
 
 * **Qlik Sense June 2020 accreditation on Trusted Extension Developer program.**
 * **Qlik Cloud Services (Business and Enterprise)** and **Qlik Sense Enterprise on Kubernetes support.** See installation instructions [here](https://help.rbcgrp.com/installation#how-to-install-extension-on-qlik-cloud-services-business-and-enterprise).

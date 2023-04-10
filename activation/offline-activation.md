@@ -28,7 +28,7 @@ After clicking the “Activate” button, you will see the activation dialog.
 
 **5.&#x20;At the end of the license you set “I accept the license” checkbox and click the “Next” button.**
 
-**6. Specify your activation key on the appropriate page of the activation dialog and set “Offline activation” checkbox.** **** Proceed offline activation by clicking the “Next” button.
+**6. Specify your activation key on the appropriate page of the activation dialog and set “Offline activation” checkbox.**  Proceed offline activation by clicking the “Next” button.
 
 {% hint style="info" %}
 Leave the “Activation key” field empty if you are making a trial activation request.&#x20;

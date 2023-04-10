@@ -14,7 +14,7 @@ It allows you to set title, subtitle and footnote.
 
 
 
-![Settings](<../.gitbook/assets/image (27).png>)
+<figure><img src="../.gitbook/assets/AppearSettings.png" alt=""><figcaption><p>Custom settings</p></figcaption></figure>
 
 
 
@@ -26,3 +26,23 @@ It also allows you to replace url in a browser adding a hashtag link of the acti
 
 
 
+With custom themes developers can style Power KPI visualizations by applying custom classes using the "**CSS classes**" parameter.
+
+<figure><img src="../.gitbook/assets/CssClasses.png" alt=""><figcaption></figcaption></figure>
+
+For example, by defining the following classes inside a custom theme, you can achieve the following effects:
+
+```css
+.qv-object-powerkpi .powerkpi-theme {
+  background: linear-gradient(#f2f2f2, white) !important;
+  border: solid 1px #f2f2f2;
+  border-radius: 5px;
+}
+
+.qv-object-powerkpi .powerkpi-theme:hover  {
+  background: linear-gradient(#CFF0F8, white) !important;
+  border: solid 1px #3b93bd;
+}
+```
+
+<figure><img src="../.gitbook/assets/CssClasses.gif" alt=""><figcaption></figcaption></figure>

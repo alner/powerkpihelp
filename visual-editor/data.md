@@ -130,6 +130,6 @@ To embed a master visualization in a cell click on a toolbar button  <img src=".
 
 ![](../.gitbook/assets/MasterObject.gif)
 
-It also possible to use the context menu for the selected cell (select a cell and click on the right mouse key), which allows to change the interaction and selection options for the master object, or delete **** the **** embedded master object.
+It also possible to use the context menu for the selected cell (select a cell and click on the right mouse key), which allows to change the interaction and selection options for the master object, or delete the embedded master object.
 
 ![](../.gitbook/assets/MasterItemsInContextMenu.png)

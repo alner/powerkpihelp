@@ -8,7 +8,7 @@ Each dimension item has the following features:
 
 ![Dimension properties](<../.gitbook/assets/image (20).png>)
 
-Apart from standard options, there is a possibility to set background color, text color and icon (symbol) using expressions. The same thing can be done for a measure.
+Apart from standard options, there is a possibility to set background/text color, an icon (symbol) and tooltip using expressions. The same thing can be done for a measure.
 
 ![Measure properties](<../.gitbook/assets/image (21).png>)
 

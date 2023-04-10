@@ -12,7 +12,7 @@ description: >-
 
 We provide a visualization extension which allows you to build flexible and stunning-looking interactive and responsive dashboards using **spreadsheet-like visual editor**.&#x20;
 
-![Visual Editor](.gitbook/assets/VisualEditor.png)
+<figure><img src=".gitbook/assets/VisualEditorNew.png" alt=""><figcaption><p>Visual Editor</p></figcaption></figure>
 
 It allows developers to design data views visually in accordance with business requirements and corporate styles, by applying styles using fonts, backgrounds, images, borders, alignments, colors, icons, etc.&#x20;
 

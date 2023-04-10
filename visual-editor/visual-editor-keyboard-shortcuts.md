@@ -6,7 +6,7 @@ Keyboard **arrows** can be used to navigate between cells. Hold **Shift** and us
 
 **Ctrl + Alt + E**  / **⌘ + Alt + E** - edit mode (for selected component);
 
-**Shift + Delete** / **Ctrl + Delete** / **⌘ + Delete** - **** delete (unlink) cells data;
+**Shift + Delete** / **Ctrl + Delete** / **⌘ + Delete** - delete (unlink) cells data;
 
 **Insert / Ctrl + Insert** / **⌘ + Insert** - insert a column and a row before selected cell;
 
@@ -54,7 +54,7 @@ Keyboard **arrows** can be used to navigate between cells. Hold **Shift** and us
 
 **Ctrl + Shift + A** / **⌘ + Shift + A** - open/close "Actions" panel;
 
-**Ctrl + Shift + S** / **⌘ + Shift + S** - **** open/close tags panel.
+**Ctrl + Shift + S** / **⌘ + Shift + S** -  open/close tags panel.
 
 
 

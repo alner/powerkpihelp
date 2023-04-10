@@ -14,17 +14,24 @@
 * “**Alternative dimensions/measures**” action allows you to apply or remove interactive dimensions and measures buttons separately for each data column labels;
 * “**Searchable dimension**” action allows you to apply or remove search functionality for each individual dimension column;
 * **"Show dialog"** allows you to use a custom popup dialog with a content formatted using HTML and embedding master visualizations support;
-* **"Show tooltip"** allows you to create custom tooltips with possibility to use HTML.
+* **"Show tooltip"** allows you to create custom tooltips with possibility to use HTML;
+* **"Show sidebar"** allows you to show a sidebar with some content;
+* **"Show popover"** allows you to show a popup window with some content;
+* and others.
 
 {% hint style="info" %}
 See the detailed description of the actions in the following sections.
 {% endhint %}
 
-You can apply the set of actions to any cell or cells to make the visualization more interactive and functional.
-
-Click <img src="../.gitbook/assets/image (66).png" alt="" data-size="original">toolbar  button to **open actions panel** and **apply actions** on the selected cell.
+Click <img src="../.gitbook/assets/image (66).png" alt="" data-size="original">toolbar  button to **open actions panel**.
 
 ![](../.gitbook/assets/2019-04-02\_15-40-33.gif)
+
+There are object-level actions ("General" tab) and cell-level actions ("Cells" tab). When the user clicks on a visualization, the object-level action fires first, followed by the cell-level actions.
+
+<figure><img src="../.gitbook/assets/ObjectLevelAction.png" alt=""><figcaption></figcaption></figure>
+
+You can apply the set of actions to any cell or cells to make the visualization more interactive and functional.
 
 To add an action, click <img src="../.gitbook/assets/image (113).png" alt="" data-size="original">button on "Actions" panel. You may apply as many actions as you want on any cell.
 

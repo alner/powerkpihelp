@@ -62,13 +62,13 @@ A developer can use "Export" button to export developed template into a file, an
 
 Properties panel allows to apply “Fit to height” parameter, which will shrink or stretch a visualization to fit the occupied by the component area. It is recommended to set this option on visualization templates without dimensions only.
 
-"Scrolling" option allows to choose between Native or Virtual scrolling mode for tables**.** Native mode is used **** when "Scrolling" option is set. **** Native mode uses native pageable scroll in which the  "Load more" or "Load previous" buttons can be used to load the next or previous page of the data, while virtual scrolling mode allows to scroll the entire dataset.
+"Scrolling" option allows to choose between Native or Virtual scrolling mode for tables**.** Native mode is used when "Scrolling" option is set. Native mode uses native pageable scroll in which the  "Load more" or "Load previous" buttons can be used to load the next or previous page of the data, while virtual scrolling mode allows to scroll the entire dataset.
 
 “Background image” allows adding an image as a background for templates.&#x20;
 
 “Thumbnail” allows setting a thumbnail for templates.
 
-"Fit to height" mode can also be applied with the help of a quick button in the visual editor (see image below). ****&#x20;
+"Fit to height" mode can also be applied with the help of a quick button in the visual editor (see image below).&#x20;
 
 ![](../.gitbook/assets/FitHeight.gif)
 
