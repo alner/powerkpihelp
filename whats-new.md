@@ -67,6 +67,12 @@ With custom themes developers can style Power KPI visualizations by applying cus
 
 <figure><img src=".gitbook/assets/CssClasses.png" alt=""><figcaption></figcaption></figure>
 
+### Maximum font size in percentages for responsive text mode
+
+It is now possible to set maximum font size in percentages when responsive text mode is activated for a cell using the <img src=".gitbook/assets/image (105).png" alt="" data-size="original"> "Fit inside cell button" on the "Font" toolbar.&#x20;
+
+<figure><img src=".gitbook/assets/FontSizePercent.png" alt=""><figcaption></figcaption></figure>
+
 ### <mark style="color:green;">August 2022</mark>
 
 ### **Chart Level Scripting support**&#x20;
