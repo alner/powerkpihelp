@@ -69,7 +69,7 @@ With custom themes developers can style Power KPI visualizations by applying cus
 
 ### Maximum font size in percentages for responsive text mode
 
-It is now possible to set maximum font size in percentages when responsive text mode is activated for a cell using the <img src=".gitbook/assets/image (105).png" alt="" data-size="original"> "Fit inside cell button" on the "Font" toolbar.&#x20;
+It is now possible to set maximum font size in percentages when responsive text mode is activated for a cell using the <img src=".gitbook/assets/image (105).png" alt="" data-size="original"> "Fit inside cell button" on the "Font" toolbar.  For example, in the image below, the maximum font size is set to 75% of the original size defined when drawing the data value for a particular cell in responsive mode.
 
 <figure><img src=".gitbook/assets/FontSizePercent.png" alt=""><figcaption></figcaption></figure>
 
