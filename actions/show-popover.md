@@ -29,3 +29,7 @@ $9bc03224-f072-439f-b0de-3014860d4f8a{width:100%;height: 40px}
 The "**Width**" and "**Height**" parameters allow the developer to set the size of the popup in pixels.
 
 The "**z-index**" CSS property sets the z-order of a popover. Overlapping elements with a larger z-index cover those with a smaller one.
+
+The "**Close Button**" checkbox determines how the popover is closed. If the "Close Button" check box is set, the pop-up window can be closed by clicking the close icon. Otherwise, the popup window can be closed by clicking on any object on the sheet outside the popup window.
+
+<figure><img src="../.gitbook/assets/PopoverWithCloseButton.png" alt=""><figcaption><p>Popover with the Close Button</p></figcaption></figure>
