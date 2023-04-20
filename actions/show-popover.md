@@ -27,3 +27,5 @@ $9bc03224-f072-439f-b0de-3014860d4f8a{width:100%;height: 40px}
 ```
 
 The "**Width**" and "**Height**" parameters allow the developer to set the size of the popup in pixels.
+
+The "z-index" allows to customize z-index value of the&#x20;
